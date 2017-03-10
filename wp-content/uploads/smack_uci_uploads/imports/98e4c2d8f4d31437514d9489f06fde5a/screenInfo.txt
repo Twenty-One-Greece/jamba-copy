@@ -1,0 +1,1 @@
+a:1:{s:32:"98e4c2d8f4d31437514d9489f06fde5a";a:1:{s:11:"import_file";a:8:{s:11:"import_mode";s:9:"new_items";s:8:"posttype";s:5:"Posts";s:13:"uploaded_name";s:25:"export_2017-03-09 (1).csv";s:9:"file_name";s:27:"export_2017-03-09 [1]-1.csv";s:14:"file_extension";s:3:"csv";s:13:"import_method";s:7:"desktop";s:12:"file_version";s:1:"1";s:10:"upload_max";s:3:"24M";}}}

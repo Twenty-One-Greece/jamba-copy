@@ -1,0 +1,5 @@
+{
+    "title" : "Get In Touch",
+    "description" : "Contact form with the following fields: Name, Email, Subject, Details. Validation for email and all fields required.",
+    "version" : "1.0"
+}

@@ -1,0 +1,131 @@
+=== START test_database 2016-12-09 14:27:19 ===
+[ERROR] Couldn't connect to the Joomla database. Please check your parameters. And be sure the WordPress server can access the Joomla database.<br />SQLSTATE[HY000] [1045] Access denied for user 'jambacgr_jamba'@'localhost' (using password: YES)<br />Please read the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/faq/" target="_blank">FAQ for the solution</a>.
+=== END test_database 2016-12-09 14:27:19 ===
+
+=== START test_database 2016-12-09 14:27:55 ===
+Connected with success to the Joomla database
+Joomla data found:<br />2 categories<br />26 articles<br />3 web links<br />237 users<br />1567 Virtuemart products<br />412 Virtuemart orders<br />
+[WARNING] Your Joomla database contains some K2 items. You need the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/k2/" target="_blank">K2 add-on</a> to import them.
+[WARNING] Your Joomla database contains some contacts. You need the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/contact-manager/" target="_blank">Contact Manager add-on</a> to import them.
+=== END test_database 2016-12-09 14:28:07 ===
+
+=== START save 2016-12-09 14:29:04 ===
+Settings saved
+=== END save 2016-12-09 14:29:04 ===
+
+=== START import 2016-12-09 14:29:13 ===
+Connected with success to the Joomla database
+Joomla data found:<br />2 categories<br />26 articles<br />3 web links<br />237 users<br />1567 Virtuemart products<br />412 Virtuemart orders<br />
+[WARNING] Your Joomla database contains some K2 items. You need the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/k2/" target="_blank">K2 add-on</a> to import them.
+[WARNING] Your Joomla database contains some contacts. You need the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/contact-manager/" target="_blank">Contact Manager add-on</a> to import them.
+Importing categories...
+2 categories imported
+0 Virtuemart manufacturers imported
+Importing product categories...
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/konica-1015-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/konica-1015-jambacopy.png : cURL error 28: Operation timed out after 5064 milliseconds with 0 bytes received
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/toners-kyocera-mita-jambacopy113.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/10/toners-kyocera-mita-jambacopy113.png : cURL error 28: Operation timed out after 5070 milliseconds with 15091 out of 63212 bytes received
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/konica-minolta-di2510-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/konica-minolta-di2510-jambacopy.png : cURL error 28: Operation timed out after 5066 milliseconds with 0 bytes received
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/triumph-adler-dc-2120-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/triumph-adler-dc-2120-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/transfer-belts-konica-minolta-jambacopy72.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/transfer-belts-konica-minolta-jambacopy72.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/canon-ir105-ir105%20-www.jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/canon-ir105-ir105 -www.jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/canon-ir105-ir105%20-www.jambacopy5.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/canon-ir105-ir105 -www.jambacopy5.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20650-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 650-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%205501-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 5501-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%206501-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 6501-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%2020-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 20-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20200-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 200-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20203-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 203-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%2020p-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 20p-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20220-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 220-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20250-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 250-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/utax-cd-1016-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/utax-cd-1016-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/utax-cd-1116-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/utax-cd-1116-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20251-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 251-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20253-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 253-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20280-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 280-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/utax-cd-1120-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/utax-cd-1120-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20300-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 300-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20350-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 350-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/triumph-adler-dc-2016-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/triumph-adler-dc-2016-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/triumph-adler-dc-2116-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/triumph-adler-dc-2116-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20351-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 351-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20352-www.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 352-www.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/utax-cd-1216-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/utax-cd-1216-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20353-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 353-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20360-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 360-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20450-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 450-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20451-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 451-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20452-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 452-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20550-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 550-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%206500-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 6500-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%205500-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 5500-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%2035-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 35-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%2035p-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 35p-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20353p-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 353p-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20552-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 552-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20652-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 652-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/transfer-belts-konica-minolta-jambacopy26.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/transfer-belts-konica-minolta-jambacopy26.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/triumph-adler-dc-2216-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/triumph-adler-dc-2216-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%2025-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/develop-ineo- 25-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/panasonic-toners-www.jambacopy456.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/12/panasonic-toners-www.jambacopy456.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20224-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/09/develop-ineo- 224-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20284-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/09/develop-ineo- 284-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20364-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/09/develop-ineo- 364-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20454-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/09/develop-ineo- 454-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/develop-ineo-%20554-jambacopy.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/09/develop-ineo- 554-jambacopy.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/chips-ineo-%20203.jpg to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/11/chips-ineo- 203.jpg : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/chips-ineo-%20220.jpg to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/11/chips-ineo- 220.jpg : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/chips-ineo-%20250.jpg to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/11/chips-ineo- 250.jpg : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/chips-ineo-%20280.jpg to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/11/chips-ineo- 280.jpg : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/chips-ineo-%20350.jpg to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/11/chips-ineo- 350.jpg : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/chips-ineo-%20451.jpg to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/11/chips-ineo- 451.jpg : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/chips-ineo-%20452.jpg to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/11/chips-ineo- 452.jpg : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/chips-ineo-%20550.jpg to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/11/chips-ineo- 550.jpg : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/chips-ineo-%20552.jpg to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/11/chips-ineo- 552.jpg : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/chips-ineo-%20650.jpg to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/11/chips-ineo- 650.jpg : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/chips-ineo-%20652.jpg to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/11/chips-ineo- 652.jpg : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/compatible-toners-%20203.jpg to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/11/compatible-toners- 203.jpg : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/compatible-toners-%20220.jpg to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/11/compatible-toners- 220.jpg : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/compatible-toners-%20250.jpg to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/11/compatible-toners- 250.jpg : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/compatible-toners-%20350.jpg to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/11/compatible-toners- 350.jpg : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/compatible-toners-%20451.jpg to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/11/compatible-toners- 451.jpg : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/compatible-toners-%20452.jpg to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/11/compatible-toners- 452.jpg : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/category/compatible-toners-%206501.jpg to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2013/11/compatible-toners- 6501.jpg : Not Found
+7992 Virtuemart product categories imported
+Importing products...
+0 Virtuemart products imported
+0 Virtuemart users infos imported
+6387 Virtuemart images imported
+Don't forget to modify internal links.
+IMPORT COMPLETE
+=== END import 2016-12-09 15:59:16 ===
+
+=== START import 2016-12-12 07:58:56 ===
+Connected with success to the Joomla database
+Joomla data found:<br />2 categories<br />26 articles<br />3 web links<br />237 users<br />1567 Virtuemart products<br />400 Virtuemart orders<br />
+[WARNING] Your Joomla database contains some K2 items. You need the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/k2/" target="_blank">K2 add-on</a> to import them.
+[WARNING] Your Joomla database contains some contacts. You need the <a href="https://www.fredericgilles.net/fg-joomla-to-wordpress/contact-manager/" target="_blank">Contact Manager add-on</a> to import them.
+Importing categories...
+0 categories imported
+0 Virtuemart manufacturers imported
+Importing product categories...
+0 Virtuemart product categories imported
+Importing products...
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/product/konica-minolta%20fusing-unit-bizhub-c454-www.jambacopy.gr.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2015/01/konica-minolta fusing-unit-bizhub-c454-www.jambacopy.gr.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/product/konica-minolta%20fusing-unit-bizhub-c554-www.jambacopy.gr.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2015/01/konica-minolta fusing-unit-bizhub-c554-www.jambacopy.gr.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/product/konica-minolta%20fusing-unit-bizhub-c224-c284-c364-www.jambacopy.gr.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2015/01/konica-minolta fusing-unit-bizhub-c224-c284-c364-www.jambacopy.gr.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/product/konica-minolta%20fusing-unit-bizhub-224e-284e-www.jambacopy.gr.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2015/10/konica-minolta fusing-unit-bizhub-224e-284e-www.jambacopy.gr.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/product/konica-minolta%20fusing-unit-bizhub-c3350-c3850-www.jambacopy.gr.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2015/10/konica-minolta fusing-unit-bizhub-c3350-c3850-www.jambacopy.gr.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/product/konica-minolta%20fusing-unit-bizhub-c308-c368-www.jambacopy.gr.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2015/10/konica-minolta fusing-unit-bizhub-c308-c368-www.jambacopy.gr.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/product/konica-minolta%20fusing-unit-bizhub-c654-c754-www.jambacopy.gr.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2015/10/konica-minolta fusing-unit-bizhub-c654-c754-www.jambacopy.gr.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/product/iu-chip-c654-c754-%20654-%20754-black-jambacopy3.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/04/iu-chip-c654-c754- 654- 754-black-jambacopy3.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/product/iu-chip-c654-c754-%20654-%20754-cyan-jambacopy5.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/04/iu-chip-c654-c754- 654- 754-cyan-jambacopy5.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/product/iu-chip-c654-c754-%20654-%20754-magenta-jambacopy9.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/04/iu-chip-c654-c754- 654- 754-magenta-jambacopy9.png : Not Found
+[ERROR] Can't copy http://jambacopy.gr/images/stories/virtuemart/product/iu-chip-c654-c754-%20654-%20754-yellow-jambacopy6.png to /Users/manias/Projects/Websites/jambacopy.gr/wp-content/uploads/2016/04/iu-chip-c654-c754- 654- 754-yellow-jambacopy6.png : Not Found
+1568 Virtuemart products imported
+0 Virtuemart users infos imported
+1 Virtuemart image imported
+Don't forget to modify internal links.
+IMPORT COMPLETE
+=== END import 2016-12-12 08:41:45 ===
+

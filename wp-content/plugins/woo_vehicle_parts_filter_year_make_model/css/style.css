@@ -1,0 +1,184 @@
+.bbYMMbox {
+    margin-bottom: 20px;
+}
+
+/*********************** THEME White **************************************/
+.bbYMMbox .box-heading-white {
+    border-radius: 7px 7px 0 0;
+	-webkit-border-radius: 7px 7px 0 0;
+	-moz-border-radius: 7px 7px 0 0;
+    color: #333;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 14px;
+    padding: 8px 10px 7px;
+	background: -moz-linear-gradient(center top , #FFFFFF 0%, #FFFFFF 55%, #CCCCCC 130%) repeat scroll 0 0 rgba(0, 0, 0, 0); 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#FFFFFF), color-stop(55%,#FFFFFF), color-stop(130%,#CCCCCC)); 	background: -webkit-linear-gradient(top, #FFFFFF 0%,#FFFFFF 55%,#CCCCCC 130%); 	background: -o-linear-gradient(top, #FFFFFF 0%,#FFFFFF 55%,#CCCCCC 130%); 	background: -ms-linear-gradient(top, #FFFFFF 0%,#FFFFFFc 55%,#CCCCCC 130%); 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=#FFFFFF, endColorstr=#CCCCCC,GradientType=0 ); 	background: linear-gradient(top, #FFFFFF 0%,#FFFFFF 55%,#CCCCCC 130%);color:#000000;border:1px solid #DBDEE1;
+	
+}
+.bbYMMbox .box-content-white {
+    background: #ffffff none repeat scroll 0 0;
+    border-bottom: 1px solid #dbdee1;
+    border-left: 1px solid #dbdee1;
+    border-right: 1px solid #dbdee1;
+    border-radius: 0 0 7px 7px;
+    padding: 10px;
+}
+
+/************************** THEME RED *************************************************/
+.bbYMMbox .box-heading-red {
+    border-radius: 7px 7px 0 0;
+	-webkit-border-radius: 7px 7px 0 0;
+	-moz-border-radius: 7px 7px 0 0;
+    color: #333;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 14px;
+    padding: 8px 10px 7px;
+	background: -moz-linear-gradient(center top , #CB2026 0%, #CB2026 55%, #CB2026 130%) repeat scroll 0 0 rgba(0, 0, 0, 0); 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#CB2026), color-stop(55%,#CB2026), color-stop(130%,#CB2026)); 	background: -webkit-linear-gradient(top, #CB2026 0%,#CB2026 55%,#CB2026 130%); 	background: -o-linear-gradient(top, #CB2026 0%,#CB2026 55%,#CB2026 130%); 	background: -ms-linear-gradient(top, #CB2026 0%,#CB2026c 55%,#CB2026 130%); 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=#CB2026, endColorstr=#CB2026,GradientType=0 ); 	background: linear-gradient(top, #CB2026 0%,#CB2026 55%,#CB2026 130%);color:#F6F6F6;border:1px solid #CB2026;
+	
+}
+.bbYMMbox .box-content-red {
+    background: #F7F6F6 none repeat scroll 0 0;
+    border-bottom: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    border-radius: 0 0 7px 7px;
+    padding: 10px;
+}
+
+/****************************************** THEME BLUE ***********************************************/
+.bbYMMbox .box-heading-blue {
+    border-radius: 7px 7px 0 0;
+	-webkit-border-radius: 7px 7px 0 0;
+	-moz-border-radius: 7px 7px 0 0;
+    color: #333;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 14px;
+    padding: 8px 10px 7px;
+	background: -moz-linear-gradient(center top , #337ab7 0%, #337ab7 55%, #337ab7 130%) repeat scroll 0 0 rgba(0, 0, 0, 0); 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#337ab7), color-stop(55%,#337ab7), color-stop(130%,#337ab7)); 	background: -webkit-linear-gradient(top, #337ab7 0%,#337ab7 55%,#337ab7 130%); 	background: -o-linear-gradient(top, #337ab7 0%,#337ab7 55%,#337ab7 130%); 	background: -ms-linear-gradient(top, #337ab7 0%,#337ab7c 55%,#337ab7 130%); 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=#337ab7, endColorstr=#337ab7,GradientType=0 ); 	background: linear-gradient(top, #337ab7 0%,#337ab7 55%,#337ab7 130%);color:#F6F6F6;border:1px solid #000000;
+	
+}
+.bbYMMbox .box-content-blue {
+    background: #31B0D5 none repeat scroll 0 0;
+    border-bottom: 1px solid #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-radius: 0 0 7px 7px;
+    padding: 10px;
+}
+/****************************************** THEME YELLOW ********************************************/
+.bbYMMbox .box-heading-yellow {
+    border-radius: 7px 7px 0 0;
+	-webkit-border-radius: 7px 7px 0 0;
+	-moz-border-radius: 7px 7px 0 0;
+    color: #333;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 14px;
+    padding: 8px 10px 7px;
+	background: -moz-linear-gradient(center top , #cb2026 0%, #cb2026 55%, #cb2026 130%) repeat scroll 0 0 rgba(0, 0, 0, 0); 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#cb2026), color-stop(55%,#cb2026), color-stop(130%,#cb2026)); 	background: -webkit-linear-gradient(top, #cb2026 0%,#cb2026 55%,#cb2026 130%); 	background: -o-linear-gradient(top, #cb2026 0%,#cb2026 55%,#cb2026 130%); 	background: -ms-linear-gradient(top, #cb2026 0%,#cb2026c 55%,#cb2026 130%); 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=#cb2026, endColorstr=#cb2026,GradientType=0 ); 	background: linear-gradient(top, #cb2026 0%,#cb2026 55%,#cb2026 130%);color:#F6F6F6;border:1px solid #000000;
+	
+}
+.bbYMMbox .box-content-yellow {
+    background: #ffe61c none repeat scroll 0 0;
+    border-bottom: 1px solid #000;
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    border-radius: 0 0 7px 7px;
+    padding: 10px;
+}
+/****************************************** THEME GREEN ********************************************/
+.bbYMMbox .box-heading-green {
+    background-color: #fff;
+    border-bottom: 3px solid #0eb477;
+    border-radius: 0;
+    color: #333;
+    font-family: "Open Sans",sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 7px 0;
+    text-transform: uppercase;
+}
+.bbYMMbox .box-content-green {
+    margin: 0;
+    padding: 5px 0 8px;
+}
+/****************************************** THEME AQUA ********************************************/
+.bbYMMbox .box-heading-aqua {
+    background-color: #fff;
+    border-bottom: 3px solid #1E85BE;
+    border-radius: 0;
+    color: #333;
+    font-family: "Open Sans",sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 7px 0;
+    text-transform: uppercase;
+}
+.bbYMMbox .box-content-aqua {
+    margin: 0;
+    padding: 5px 0 8px;
+}
+
+/****************************************** THEME OLIVE ********************************************/
+.bbYMMbox .box-heading-olive {
+    border-radius: 7px 7px 0 0;
+	-webkit-border-radius: 7px 7px 0 0;
+	-moz-border-radius: 7px 7px 0 0;
+    color: #000;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 14px;
+    padding: 8px 10px 7px;
+	background: orange none repeat scroll 0 0;
+	border:solid 2px #000;
+	
+}
+.bbYMMbox .box-content-olive select{
+	border: solid 2px #000000 !important;
+}
+.bbYMMbox .box-content-olive {
+    background: #a2cf06 none repeat scroll 0 0;
+    border-bottom: 2px solid #000;
+    border-left: 2px solid #000;
+    border-right: 2px solid #000;
+    border-radius: 0 0 7px 7px;
+    padding: 10px;
+}
+/***************************************************************************************************/
+
+#bbymmLoader{
+	position:absolute;bottom:0;display:none;right:0;margin-right:30px;margin-bottom:10px;
+}
+#bbymmLoader_sc{
+	position:absolute;bottom:0;display:none;right:0;margin-right:30px;margin-bottom:10px;z-index:8888;
+}
+.ymm_year_box, .ymm_make_box, .ymm_model_box, .sc_select_width{
+	width:100% !important;
+}
+.bbymm_year, .bbymm_make, .bbymm_model{
+	margin-bottom:5px;
+}
+.bb_filter_form{
+	padding:0px !important;
+	margin:0px !important;
+}
+.ymm_shortcode{
+	width:100%;
+	height:auto;
+	border:solid 1px #ccc;
+	position:relative;
+	margin-bottom:10px;
+}
+.shortcodeSelect{
+	width:235px;
+}
+select.ymm_year_box_sc.sc_select_width {
+	color:#000 !important;
+}

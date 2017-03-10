@@ -1,0 +1,992 @@
+
+div[id*='ajaxsearchpro1_'] div.asp_loader,
+div[id*='ajaxsearchpro1_'] div.asp_loader * {
+    /* display: none; */
+    box-sizing: border-box !important;
+    margin: 0;
+    padding: 0;
+    /* vertical-align: middle !important; */
+    box-shadow: none;
+}
+
+div[id*='ajaxsearchpro1_'] div.asp_loader {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 1 auto;
+    flex-direction: column;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis:28px;
+    max-width: 100%;
+    max-height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+div[id*='ajaxsearchpro1_'] div.asp_loader-inner {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    /* vertical-align: text-top; */
+    height: 100%;
+}
+ 
+@-webkit-keyframes rotate-simple {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg); }
+
+    50% {
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg); }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg); } }
+
+@keyframes rotate-simple {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg); }
+
+    50% {
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg); }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg); } }
+div[id*='ajaxsearchpro1_'] div.asp_simple-circle {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    animation: rotate-simple 0.8s infinite linear;
+    -webkit-animation: rotate-simple 0.8s infinite linear;
+    border: 4px solid rgba(0, 0, 0, 1);;
+    border-right-color: transparent;
+    border-radius: 50%;
+    box-sizing: border-box;
+}
+
+div[id*='ajaxsearchprores1_'] .asp_res_loader div.asp_loader,
+div[id*='ajaxsearchprores1_'] .asp_res_loader div.asp_loader * {
+    /* display: none; */
+    box-sizing: border-box !important;
+    margin: 0;
+    padding: 0;
+    /* vertical-align: middle !important; */
+    box-shadow: none;
+}
+
+div[id*='ajaxsearchprores1_'] .asp_res_loader div.asp_loader {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 1 auto;
+    flex-direction: column;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis:28px;
+    max-width: 100%;
+    max-height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+div[id*='ajaxsearchprores1_'] .asp_res_loader div.asp_loader-inner {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    /* vertical-align: text-top; */
+    height: 100%;
+}
+ 
+@-webkit-keyframes rotate-simple {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg); }
+
+    50% {
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg); }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg); } }
+
+@keyframes rotate-simple {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg); }
+
+    50% {
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg); }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg); } }
+div[id*='ajaxsearchprores1_'] .asp_res_loader div.asp_simple-circle {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    animation: rotate-simple 0.8s infinite linear;
+    -webkit-animation: rotate-simple 0.8s infinite linear;
+    border: 4px solid rgba(0, 0, 0, 1);;
+    border-right-color: transparent;
+    border-radius: 50%;
+    box-sizing: border-box;
+}
+
+#ajaxsearchpro1_1 div.asp_loader, #ajaxsearchpro1_2 div.asp_loader,
+#ajaxsearchpro1_1 div.asp_loader *, #ajaxsearchpro1_2 div.asp_loader * {
+    /* display: none; */
+    box-sizing: border-box !important;
+    margin: 0;
+    padding: 0;
+    /* vertical-align: middle !important; */
+    box-shadow: none;
+}
+
+#ajaxsearchpro1_1 div.asp_loader, #ajaxsearchpro1_2 div.asp_loader {
+    box-sizing: border-box;
+    display: flex;
+    flex: 0 1 auto;
+    flex-direction: column;
+    flex-grow: 0;
+    flex-shrink: 0;
+    flex-basis:28px;
+    max-width: 100%;
+    max-height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+#ajaxsearchpro1_1 div.asp_loader-inner, #ajaxsearchpro1_2 div.asp_loader-inner {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    /* vertical-align: text-top; */
+    height: 100%;
+}
+ 
+@-webkit-keyframes rotate-simple {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg); }
+
+    50% {
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg); }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg); } }
+
+@keyframes rotate-simple {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg); }
+
+    50% {
+        -webkit-transform: rotate(180deg);
+        transform: rotate(180deg); }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg); } }
+#ajaxsearchpro1_1 div.asp_simple-circle, #ajaxsearchpro1_2 div.asp_simple-circle {
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    animation: rotate-simple 0.8s infinite linear;
+    -webkit-animation: rotate-simple 0.8s infinite linear;
+    border: 4px solid rgba(0, 0, 0, 1);;
+    border-right-color: transparent;
+    border-radius: 50%;
+    box-sizing: border-box;
+}
+
+@-webkit-keyframes asp_an_fadeInDown {
+    0% {
+        opacity: 0;
+        -webkit-transform: translateY(-20px);
+    }
+
+    100% {
+        opacity: 1;
+        -webkit-transform: translateY(0);
+    }
+}
+
+@keyframes asp_an_fadeInDown {
+    0% {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.asp_an_fadeInDown {
+    -webkit-animation-name:  asp_an_fadeInDown;
+    animation-name:  asp_an_fadeInDown;
+}
+ 
+
+
+@font-face {
+    font-family: 'asppsicons2';
+    src: url('//jamba.gr/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons2.eot');
+    src: url('//jamba.gr/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons2.eot?#iefix') format('embedded-opentype'),
+         url('//jamba.gr/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons2.woff2') format('woff2'),
+         url('//jamba.gr/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons2.woff') format('woff'),
+         url('//jamba.gr/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons2.ttf') format('truetype'),
+         url('//jamba.gr/wp-content/plugins/ajax-search-pro/css/fonts/icons/icons2.svg#icons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+    #ajaxsearchpro1_1,
+    #ajaxsearchprosettings1_1,
+    #ajaxsearchprores1_1,
+    #ajaxsearchpro1_2,
+    #ajaxsearchprores1_2,
+    #ajaxsearchprosettings1_2,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"],
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] *,
+div.ajaxsearchpro[id*="ajaxsearchpro1_"],
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] *,
+div.ajaxsearchpro[id*="ajaxsearchprosettings1_"],
+div.ajaxsearchpro[id*="ajaxsearchprosettings1_"] * {
+    -webkit-box-sizing: content-box; /* Safari/Chrome, other WebKit */
+    -moz-box-sizing: content-box; /* Firefox, other Gecko */
+    -ms-box-sizing: content-box;
+    -o-box-sizing: content-box;
+    box-sizing: content-box;
+    border: 0;
+    border-radius: 0;
+    text-transform: none;
+    text-shadow: none;
+    box-shadow: none;
+    text-decoration: none;
+    text-align: left;
+    letter-spacing: normal;
+}
+
+/* Margin and padding gets wrecked if set with compatibility.. */
+div.ajaxsearchpro[id*="ajaxsearchprores1_"],
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] *,
+div.ajaxsearchpro[id*="ajaxsearchpro1_"],
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] *,
+div.ajaxsearchpro[id*="ajaxsearchprosettings1_"],
+div.ajaxsearchpro[id*="ajaxsearchprosettings1_"] * {
+    padding: 0;
+    margin: 0;
+}
+
+.wpdreams_clear {
+    clear: both;
+}
+
+    #ajaxsearchpro1_1,
+    #ajaxsearchpro1_2,
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+  background: #d1eaff;
+                background-image: -moz-radial-gradient(center, ellipse cover,  rgb(219, 233, 238), rgb(219, 233, 238));
+            background-image: -webkit-gradient(radial, center center, 0px, center center, 100%, rgb(219, 233, 238), rgb(219, 233, 238));
+            background-image: -webkit-radial-gradient(center, ellipse cover,  rgb(219, 233, 238), rgb(219, 233, 238));
+            background-image: -o-radial-gradient(center, ellipse cover,  rgb(219, 233, 238), rgb(219, 233, 238));
+            background-image: -ms-radial-gradient(center, ellipse cover,  rgb(219, 233, 238), rgb(219, 233, 238));
+            background-image: radial-gradient(ellipse at center,  rgb(219, 233, 238), rgb(219, 233, 238));
+          overflow: hidden;
+  border:0px none rgba(0, 0, 0, 1);border-radius:5px 5px 5px 5px;  box-shadow:0px 10px 18px -13px #000000 ;}
+
+    #ajaxsearchpro1_1 .probox,
+    #ajaxsearchpro1_2 .probox,
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox {
+  margin: 4px;
+  height: 28px;
+              background-image: -moz-radial-gradient(center, ellipse cover,  rgb(255, 255, 255), rgb(255, 255, 255));
+            background-image: -webkit-gradient(radial, center center, 0px, center center, 100%, rgb(255, 255, 255), rgb(255, 255, 255));
+            background-image: -webkit-radial-gradient(center, ellipse cover,  rgb(255, 255, 255), rgb(255, 255, 255));
+            background-image: -o-radial-gradient(center, ellipse cover,  rgb(255, 255, 255), rgb(255, 255, 255));
+            background-image: -ms-radial-gradient(center, ellipse cover,  rgb(255, 255, 255), rgb(255, 255, 255));
+            background-image: radial-gradient(ellipse at center,  rgb(255, 255, 255), rgb(255, 255, 255));
+          border:1px solid rgb(104, 174, 199);border-radius:3px 3px 3px 3px;  box-shadow:1px 0px 6px -3px rgb(181, 181, 181) inset;}
+
+
+
+p[id*=asp-try-1] {
+    color: rgb(85, 85, 85) !important;
+    display: block;
+}
+
+div.asp_main_container+[id*=asp-try-1] {
+        width: 100%;
+}
+
+p[id*=asp-try-1] a {
+    color: rgb(255, 181, 86) !important;
+}
+
+    #ajaxsearchpro1_1 .probox .proinput,
+    #ajaxsearchpro1_2 .probox .proinput,
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .proinput {
+  font-weight:normal;font-family:'Open Sans';color:rgb(0, 0, 0);font-size:12px;line-height:15px;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);    line-height: normal;
+  flex-grow: 1;
+  order: 5;
+  /* Ipad and stuff.. */
+  -webkit-flex-grow: 1;
+  -webkit-order: 5;
+}
+
+    #ajaxsearchpro1_1 .probox .proinput input.orig,
+    #ajaxsearchpro1_2 .probox .proinput input.orig,
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .proinput input.orig {
+    font-weight:normal;font-family:'Open Sans';color:rgb(0, 0, 0);font-size:12px;line-height:15px;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);    line-height: normal;
+    border: 0;
+    box-shadow: none;
+    height: 28px;
+    position: relative;
+    z-index: 50;
+    padding: 0 !important;
+    padding-top: 2px !important;
+    margin: -1px 0 0 -4px !important;
+    width: 100%;
+    background: transparent !important;
+}
+
+    #ajaxsearchpro1_1 .probox .proinput input.autocomplete,
+    #ajaxsearchpro1_2 .probox .proinput input.autocomplete,
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .proinput input.autocomplete {
+    font-weight:normal;font-family:'Open Sans';color:rgb(0, 0, 0);font-size:12px;line-height:15px;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);    line-height: normal;
+    opacity: 0.25;
+    height: 28px;
+    display: block;
+    position: relative;
+    z-index: 1;
+    padding: 0 !important;
+    margin: -1px 0 0 -4px !important;
+    margin-top: -28px !important;
+    width: 100%;
+    background: transparent !important;
+}
+
+    .rtl #ajaxsearchpro1_1 .probox .proinput input.orig,
+    .rtl #ajaxsearchpro1_2 .probox .proinput input.orig,
+    .rtl #ajaxsearchpro1_1 .probox .proinput input.autocomplete,
+    .rtl #ajaxsearchpro1_2 .probox .proinput input.autocomplete,
+.rtl div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .proinput input.orig,
+.rtl div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .proinput input.autocomplete {
+font-weight:normal;font-family:'Open Sans';color:rgb(0, 0, 0);font-size:12px;line-height:15px;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);line-height: normal;
+direction: rtl;
+text-align: right;
+}
+
+    .rtl #ajaxsearchpro1_1 .probox .proinput,
+    .rtl #ajaxsearchpro1_2 .probox .proinput,
+.rtl div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .proinput {
+    /*float: right;*/
+    margin-right: 2px;
+}
+
+    .rtl #ajaxsearchpro1_1 .probox .proloading,
+    .rtl #ajaxsearchpro1_1 .probox .proclose,
+    .rtl #ajaxsearchpro1_2 .probox .proloading,
+    .rtl #ajaxsearchpro1_2 .probox .proclose,
+.rtl div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .proloading,
+.rtl div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .proclose {
+    order: 3;
+}
+
+
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .proinput input.orig::-webkit-input-placeholder {
+    font-weight:normal;font-family:'Open Sans';color:rgb(0, 0, 0);font-size:12px;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);    opacity: 0.85;
+}
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .proinput input.orig::-moz-placeholder {
+    font-weight:normal;font-family:'Open Sans';color:rgb(0, 0, 0);font-size:12px;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);    opacity: 0.85;
+}
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .proinput input.orig:-ms-input-placeholder {
+    font-weight:normal;font-family:'Open Sans';color:rgb(0, 0, 0);font-size:12px;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);    opacity: 0.85;
+}
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .proinput input.orig:-moz-placeholder {
+    font-weight:normal;font-family:'Open Sans';color:rgb(0, 0, 0);font-size:12px;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);    opacity: 0.85;
+    line-height: normal !important;
+}
+
+    #ajaxsearchpro1_1 .probox .proinput input.autocomplete,
+    #ajaxsearchpro1_2 .probox .proinput input.autocomplete,
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .proinput input.autocomplete {
+  font-weight:normal;font-family:'Open Sans';color:rgb(0, 0, 0);font-size:12px;line-height:15px;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);    line-height: normal;
+    border: 0;
+    box-shadow: none;
+}
+
+    #ajaxsearchpro1_1 .probox .proloading,
+    #ajaxsearchpro1_1 .probox .proclose,
+    #ajaxsearchpro1_1 .probox .promagnifier,
+    #ajaxsearchpro1_1 .probox .prosettings,
+    #ajaxsearchpro1_2 .probox .proloading,
+    #ajaxsearchpro1_2 .probox .proclose,
+    #ajaxsearchpro1_2 .probox .promagnifier,
+    #ajaxsearchpro1_2 .probox .prosettings,
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .proloading,
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .proclose,
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .promagnifier,
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .prosettings {
+  width: 28px;
+  height: 28px;
+  flex: 0 0 28px;
+  flex-grow: 0;
+  order: 7;
+    /* Ipad and stuff.. */
+    -webkit-flex: 0 0 28px;
+    -webkit-flex-grow: 0;
+    -webkit-order: 7;
+}
+
+	#ajaxsearchpro1_1 .probox .proloading,
+	#ajaxsearchpro1_2 .probox .proloading,
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .proloading {
+    width: 28px;
+    height: 28px;
+    min-width: 28px;
+    min-height: 28px;
+    max-width: 28px;
+    max-height: 28px;
+}
+
+	#ajaxsearchpro1_1 .probox .proloading .asp_loader,
+	#ajaxsearchpro1_2 .probox .proloading .asp_loader,
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .proloading .asp_loader {
+    width: 24px;
+    height: 24px;
+    min-width: 24px;
+    min-height: 24px;
+    max-width: 24px;
+    max-height: 24px;
+}
+
+	#ajaxsearchpro1_1 .probox .promagnifier,
+	#ajaxsearchpro1_2 .probox .promagnifier,
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .promagnifier {
+	width: auto;
+	height: 28px;
+	flex: 0 0 auto;
+	order: 7;
+	/* Ipad and stuff.. */
+	-webkit-flex: 0 0 auto;
+	-webkit-order: 7;
+}
+
+
+	#ajaxsearchpro1_1 .probox .promagnifier div.innericon,
+	#ajaxsearchpro1_2 .probox .promagnifier div.innericon,
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .promagnifier div.innericon {
+	width: 28px;
+	height: 28px;
+	float: right;
+}
+
+	#ajaxsearchpro1_1 .probox .promagnifier div.asp_text_button,
+	#ajaxsearchpro1_2 .probox .promagnifier div.asp_text_button,
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .promagnifier div.asp_text_button {
+	width: auto;
+	height: 28px;
+	float: right;
+	margin: 0;
+		    padding: 0 10px 0 2px;
+		font-weight:normal;font-family:'Open Sans';color:rgba(51, 51, 51, 1);font-size:15px;line-height:normal;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);    /* to center the text, this must be identical with the height */
+    line-height: 28px;
+}
+
+    #ajaxsearchpro1_1 .probox .promagnifier .innericon svg,
+    #ajaxsearchpro1_2 .probox .promagnifier .innericon svg,
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .promagnifier .innericon svg {
+  fill: rgba(0, 0, 0, 1);;
+}
+
+    #ajaxsearchpro1_1 .probox .prosettings .innericon svg,
+    #ajaxsearchpro1_2 .probox .prosettings .innericon svg,
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .prosettings .innericon svg {
+  fill: rgba(0, 0, 0, 1);;
+}
+
+
+    #ajaxsearchpro1_1.asp_msie .probox .proloading,
+    #ajaxsearchpro1_2.asp_msie .probox .proloading,
+div.ajaxsearchpro[id*="ajaxsearchpro1_"].asp_msie .probox .proloading {
+    background-image: url("http://jamba.gr/wp-content/plugins/ajax-search-pro//img/loading/newload1.gif");
+    float: right;
+}
+
+    #ajaxsearchpro1_1 .probox .promagnifier,
+    #ajaxsearchpro1_2 .probox .promagnifier,
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .promagnifier {
+        width: 28px;
+    height: 28px;
+              background-image: -webkit-linear-gradient(180deg, rgb(132, 197, 220), rgb(108, 209, 245));
+            background-image: -moz-linear-gradient(180deg, rgb(132, 197, 220), rgb(108, 209, 245));
+            background-image: -o-linear-gradient(180deg, rgb(132, 197, 220), rgb(108, 209, 245));
+            background-image: -ms-linear-gradient(180deg, rgb(132, 197, 220) 0%, rgb(108, 209, 245) 100%);
+            background-image: linear-gradient(180deg, rgb(132, 197, 220), rgb(108, 209, 245));
+          background-position:center center;
+  background-repeat: no-repeat;
+
+  order: 11;
+  /* Ipad and stuff fix */
+  -webkit-order: 11;
+  float: right; /* IE9, no flexbox */
+  border:0px solid rgb(104, 174, 199);border-radius:0px 0px 0px 0px;  box-shadow:-1px 1px 0px 0px rgba(255, 255, 255, 0.61) inset;  cursor: pointer;
+  background-size: 100% 100%;
+
+  background-position:center center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+
+
+
+    #ajaxsearchpro1_1 .probox .prosettings,
+    #ajaxsearchpro1_2 .probox .prosettings,
+div.ajaxsearchpro[id*="ajaxsearchpro1_"] .probox .prosettings {
+  width: 28px;
+  height: 28px;
+              background-image: -webkit-linear-gradient(185deg, rgb(104, 174, 199), rgb(108, 209, 245));
+            background-image: -moz-linear-gradient(185deg, rgb(104, 174, 199), rgb(108, 209, 245));
+            background-image: -o-linear-gradient(185deg, rgb(104, 174, 199), rgb(108, 209, 245));
+            background-image: -ms-linear-gradient(185deg, rgb(104, 174, 199) 0%, rgb(108, 209, 245) 100%);
+            background-image: linear-gradient(185deg, rgb(104, 174, 199), rgb(108, 209, 245));
+          background-position:center center;
+  background-repeat: no-repeat;
+  order: 1;
+  /* Ipad and stuff fix*/
+  -webkit-order: 1;
+  float: left; /* IE9, no flexbox */
+  border:0px solid rgb(104, 174, 199);border-radius:0px 0px 0px 0px;  box-shadow:1px 1px 0px 0px rgba(255, 255, 255, 0.63) inset;  cursor: pointer;
+  background-size: 100% 100%;
+  align-self: flex-end;
+}
+
+
+    #ajaxsearchprores1_1,
+    #ajaxsearchprores1_2,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] {
+    position: absolute;
+    z-index:11000;
+}
+
+    #ajaxsearchprores1_1 .results .asp_nores .asp_keyword,
+    #ajaxsearchprores1_2 .results .asp_nores .asp_keyword,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .results .asp_nores .asp_keyword {
+    padding: 0 6px;
+    cursor: pointer;
+    font-weight:normal;font-family:'Open Sans';color:rgba(74, 74, 74, 1);font-size:13px;line-height:13px;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);    font-weight: bold;
+}
+
+    #ajaxsearchprores1_1 .results .item,
+    #ajaxsearchprores1_2 .results .item,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .results .item {
+    height: auto;
+    background: rgb(255, 255, 255);
+}
+
+    #ajaxsearchprores1_1 .results .item.hovered,
+    #ajaxsearchprores1_2 .results .item.hovered,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .results .item.hovered {
+              background-image: -moz-radial-gradient(center, ellipse cover,  rgb(235, 250, 255), rgb(235, 250, 255));
+            background-image: -webkit-gradient(radial, center center, 0px, center center, 100%, rgb(235, 250, 255), rgb(235, 250, 255));
+            background-image: -webkit-radial-gradient(center, ellipse cover,  rgb(235, 250, 255), rgb(235, 250, 255));
+            background-image: -o-radial-gradient(center, ellipse cover,  rgb(235, 250, 255), rgb(235, 250, 255));
+            background-image: -ms-radial-gradient(center, ellipse cover,  rgb(235, 250, 255), rgb(235, 250, 255));
+            background-image: radial-gradient(ellipse at center,  rgb(235, 250, 255), rgb(235, 250, 255));
+        }
+
+    #ajaxsearchprores1_1 .results .item .asp_image,
+    #ajaxsearchprores1_2 .results .item .asp_image,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .results .item .asp_image {
+  width: 70px;
+  height: 70px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+    #ajaxsearchprores1_1 .results .item .asp_item_img,
+    #ajaxsearchprores1_2 .results .item .asp_item_img,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .results .item .asp_item_img {
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+    #ajaxsearchprores1_1 .results .item .asp_item_overlay_img,
+    #ajaxsearchprores1_2 .results .item .asp_item_overlay_img,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .results .item .asp_item_overlay_img {
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+
+    #ajaxsearchprores1_1 .results .item .asp_content,
+    #ajaxsearchprores1_2 .results .item .asp_content,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .results .item .asp_content {
+    overflow: hidden;
+    background: transparent;
+    margin: 0;
+    padding: 0 10px;
+}
+
+    #ajaxsearchprores1_1 .results .item .asp_content h3,
+    #ajaxsearchprores1_2 .results .item .asp_content h3,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .results .item .asp_content h3 {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  line-height: inherit;
+  font-weight:bold;font-family:'Open Sans';color:rgba(20, 84, 169, 1);font-size:14px;line-height:20px;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);}
+
+    #ajaxsearchprores1_1 .results .item .asp_content h3 a,
+    #ajaxsearchprores1_2 .results .item .asp_content h3 a,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .results .item .asp_content h3 a {
+  margin: 0;
+  padding: 0;
+  line-height: inherit;
+  font-weight:bold;font-family:'Open Sans';color:rgba(20, 84, 169, 1);font-size:14px;line-height:20px;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);}
+
+    #ajaxsearchprores1_1 .results .item .asp_content h3 a:hover,
+    #ajaxsearchprores1_2 .results .item .asp_content h3 a:hover,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .results .item .asp_content h3 a:hover {
+  font-weight:bold;font-family:'Open Sans';color:rgba(20, 84, 169, 1);font-size:14px;line-height:20px;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);}
+
+    #ajaxsearchprores1_1 .results .item div.etc,
+    #ajaxsearchprores1_2 .results .item div.etc,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .results .item div.etc {
+  padding: 0;
+  font-size: 13px;
+  line-height: 1.3em;
+  margin-bottom: 6px;
+}
+
+    #ajaxsearchprores1_1 .results .item .etc .asp_author,
+    #ajaxsearchprores1_2 .results .item .etc .asp_author,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .results .item .etc .asp_author {
+  padding: 0;
+  font-weight:bold;font-family:'Open Sans';color:rgba(161, 161, 161, 1);font-size:12px;line-height:13px;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);}
+
+    #ajaxsearchprores1_1 .results .item .etc .asp_date,
+    #ajaxsearchprores1_2 .results .item .etc .asp_date,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .results .item .etc .asp_date {
+  margin: 0 0 0 10px;
+  padding: 0;
+  font-weight:normal;font-family:'Open Sans';color:rgba(173, 173, 173, 1);font-size:12px;line-height:15px;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);}
+
+    #ajaxsearchprores1_1 .results .item p.desc,
+    #ajaxsearchprores1_2 .results .item p.desc,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .results .item p.desc {
+  margin: 2px 0px;
+  padding: 0;
+  font-weight:normal;font-family:'Open Sans';color:rgba(74, 74, 74, 1);font-size:13px;line-height:13px;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);}
+
+    #ajaxsearchprores1_1 .results .item div.asp_content,
+    #ajaxsearchprores1_2 .results .item div.asp_content,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .results .item div.asp_content {
+    margin: 0px;
+    padding: 0;
+    font-weight:normal;font-family:'Open Sans';color:rgba(74, 74, 74, 1);font-size:13px;line-height:13px;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);}
+
+    #ajaxsearchprores1_1 span.highlighted,
+    #ajaxsearchprores1_2 span.highlighted,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] span.highlighted {
+    font-weight: bold;
+    color: #d9312b;
+    background-color: #eee;
+    color: rgba(217, 49, 43, 1);
+    background-color: rgba(238, 238, 238, 1);
+}
+
+    #ajaxsearchprores1_1 p.showmore,
+    #ajaxsearchprores1_2 p.showmore,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] p.showmore {
+  text-align: center;
+  padding: 10px 5px;
+  margin: 0;
+  font-weight:normal;font-family:'Open Sans';color:rgba(5, 94, 148, 1);font-size:12px;line-height:15px;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);}
+
+    #ajaxsearchprores1_1 p.showmore a,
+    #ajaxsearchprores1_2 p.showmore a,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] p.showmore a {
+  font-weight:normal;font-family:'Open Sans';color:rgba(5, 94, 148, 1);font-size:12px;line-height:15px;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);}
+
+    #ajaxsearchprores1_1 .asp_group_header,
+    #ajaxsearchprores1_2 .asp_group_header,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .asp_group_header {
+  background: #DDDDDD;
+  background: rgb(246, 246, 246);
+  border-radius: 3px 3px 0 0;
+  border-top: 1px solid rgb(248, 248, 248);
+  border-left: 1px solid rgb(248, 248, 248);
+  border-right: 1px solid rgb(248, 248, 248);
+  margin: 10px 0 -3px;
+  padding: 7px 0 7px 10px;
+  position: relative;
+  z-index: 1000;
+  font-weight:bold;font-family:'Open Sans';color:rgba(5, 94, 148, 1);font-size:11px;line-height:13px;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);}
+
+    #ajaxsearchprores1_1 .asp_res_loader,
+    #ajaxsearchprores1_2 .asp_res_loader,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .asp_res_loader {
+    background: rgb(255, 255, 255);
+    height: 200px;
+    padding: 10px;
+}
+
+    #ajaxsearchprores1_1.isotopic .asp_res_loader,
+    #ajaxsearchprores1_2.isotopic .asp_res_loader,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"].isotopic .asp_res_loader {
+    background: rgba(255, 255, 255, 0);;
+}
+
+    #ajaxsearchprores1_1 .asp_res_loader .asp_loader,
+    #ajaxsearchprores1_2 .asp_res_loader .asp_loader,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .asp_res_loader .asp_loader {
+    height: 200px;
+    width: 200px;
+    margin: 0 auto;
+}
+
+
+/* Search settings */
+    div.ajaxsearchpro[id*="ajaxsearchprosettings1_"].searchsettings,
+    div.ajaxsearchpro[id*="ajaxsearchprosettings1_"].searchsettings,
+div.ajaxsearchpro[id*="ajaxsearchprosettings1_"].searchsettings  {
+  direction: ltr;
+  padding: 0;
+              background-image: -webkit-linear-gradient(185deg, rgba(109, 204, 237, 1), rgb(104, 174, 199));
+            background-image: -moz-linear-gradient(185deg, rgba(109, 204, 237, 1), rgb(104, 174, 199));
+            background-image: -o-linear-gradient(185deg, rgba(109, 204, 237, 1), rgb(104, 174, 199));
+            background-image: -ms-linear-gradient(185deg, rgba(109, 204, 237, 1) 0%, rgb(104, 174, 199) 100%);
+            background-image: linear-gradient(185deg, rgba(109, 204, 237, 1), rgb(104, 174, 199));
+          box-shadow:2px 2px 3px -1px rgba(170, 170, 170, 1);;
+  max-width: 208px;
+}
+
+    #ajaxsearchprobsettings1_1.searchsettings,
+    #ajaxsearchprobsettings1_2.searchsettings,
+div.ajaxsearchpro[id*="ajaxsearchprobsettings1_"].searchsettings {
+  max-width: none;
+}
+
+    div.ajaxsearchpro[id*="ajaxsearchprosettings1_"].searchsettings form,
+    div.ajaxsearchpro[id*="ajaxsearchprosettings1_"].searchsettings form,
+div.ajaxsearchpro[id*="ajaxsearchprosettings1_"].searchsettings form {
+  display: block;
+    -moz-column-width: 200px;
+    -moz-column-fill: balance;
+    -moz-column-gap: 0px;
+    -webkit-column-width: 200px;
+    -webkit-column-gap: 0;
+    column-width: 200px;
+    column-gap: 0;
+    column-fill: balance;
+}
+
+    div.ajaxsearchpro[id*="ajaxsearchprobsettings1_"].searchsettings form,
+    div.ajaxsearchpro[id*="ajaxsearchprobsettings1_"].searchsettings form,
+div.ajaxsearchpro[id*="ajaxsearchprobsettings1_"].searchsettings form {
+  display: block;
+    -moz-column-width: 200px;
+    -moz-column-fill: balance;
+    -moz-column-gap: 0px;
+    -webkit-column-width: 200px;
+    -webkit-column-gap: 0;
+    column-width: 200px;
+    column-gap: 0;
+    column-fill: balance;
+}
+
+            div.ajaxsearchpro[id*="ajaxsearchprobsettings1_"].searchsettings form>fieldset,
+        div.ajaxsearchpro[id*="ajaxsearchprobsettings1_"].searchsettings form>fieldset,
+        div.ajaxsearchpro[id*="ajaxsearchprobsettings1_"].searchsettings form>fieldset {
+      display: inline-block;
+      vertical-align: top;
+      float: none;
+    }
+            div.ajaxsearchpro[id*="ajaxsearchprosettings1_"].searchsettings form>fieldset,
+        div.ajaxsearchpro[id*="ajaxsearchprosettings1_"].searchsettings form>fieldset,
+        div.ajaxsearchpro[id*="ajaxsearchprosettings1_"].searchsettings form>fieldset {
+      display: inline-block;
+      vertical-align: top;
+      float: none;
+    }
+
+    #ajaxsearchprosettings1_1.searchsettings .label,
+    #ajaxsearchprosettings1_2.searchsettings .label,
+    #ajaxsearchprosettings1_1.searchsettings .asp_label,
+    #ajaxsearchprosettings1_2.searchsettings .asp_label,
+div.ajaxsearchpro[id*="ajaxsearchprosettings1_"].searchsettings .label,
+div.ajaxsearchpro[id*="ajaxsearchprosettings1_"].searchsettings .asp_label {
+  font-weight:bold;font-family:'Open Sans';color:rgb(255, 255, 255);font-size:12px;line-height:15px;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);}
+
+    #ajaxsearchprosettings1_1.searchsettings .option label,
+    #ajaxsearchprosettings1_2.searchsettings .option label,
+div.ajaxsearchpro[id*="ajaxsearchprosettings1_"].searchsettings .option label {
+              background-image: -webkit-linear-gradient(180deg, rgba(34, 34, 34, 1), rgba(69, 72, 77, 1));
+            background-image: -moz-linear-gradient(180deg, rgba(34, 34, 34, 1), rgba(69, 72, 77, 1));
+            background-image: -o-linear-gradient(180deg, rgba(34, 34, 34, 1), rgba(69, 72, 77, 1));
+            background-image: -ms-linear-gradient(180deg, rgba(34, 34, 34, 1) 0%, rgba(69, 72, 77, 1) 100%);
+            background-image: linear-gradient(180deg, rgba(34, 34, 34, 1), rgba(69, 72, 77, 1));
+        }
+
+    #ajaxsearchprosettings1_1.searchsettings .option label:after,
+    #ajaxsearchprosettings1_2.searchsettings .option label:after,
+    #ajaxsearchprobsettings1_1.searchsettings .option label:after,
+    #ajaxsearchprobsettings1_2.searchsettings .option label:after,
+div.ajaxsearchpro[id*="ajaxsearchprobsettings1_"].searchsettings .option label:after,
+div.ajaxsearchpro[id*="ajaxsearchprosettings1_"].searchsettings .option label:after {
+    font-family: 'asppsicons2';
+    border: none;
+    content: "\e800";
+    display: block;
+    font-size: 11px;
+    color: rgba(255, 255, 255, 1);
+    margin: 1px 0 0 0px !important;
+    line-height: 17px;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: none;
+}
+
+    #ajaxsearchprosettings1_1.searchsettings .asp_sett_scroll,
+    #ajaxsearchprosettings1_2.searchsettings .asp_sett_scroll,
+div.ajaxsearchpro[id*="ajaxsearchprosettings1_"].searchsettings .asp_sett_scroll {
+  max-height: 220px;
+  overflow: auto;
+}
+
+    #ajaxsearchprobsettings1_1.searchsettings .asp_sett_scroll,
+    #ajaxsearchprobsettings1_2.searchsettings .asp_sett_scroll,
+div.ajaxsearchpro[id*="ajaxsearchprobsettings1_"].searchsettings .asp_sett_scroll {
+  max-height: 220px;
+  overflow: auto;
+}
+
+    #ajaxsearchprosettings1_1.searchsettings fieldset,
+    #ajaxsearchprosettings1_2.searchsettings fieldset,
+div.ajaxsearchpro[id*="ajaxsearchprosettings1_"].searchsettings fieldset {
+  width: 200px;
+  min-width: 200px;
+  max-width: 10000px;
+}
+
+    #ajaxsearchprobsettings1_1.searchsettings fieldset,
+    #ajaxsearchprobsettings1_2.searchsettings fieldset,
+div.ajaxsearchpro[id*="ajaxsearchprobsettings1_"].searchsettings fieldset {
+  width: 200px;
+  min-width: 200px;
+  max-width: 10000px;
+}
+
+    #ajaxsearchprosettings1_1.searchsettings fieldset legend,
+    #ajaxsearchprosettings1_2.searchsettings fieldset legend,
+div.ajaxsearchpro[id*="ajaxsearchprosettings1_"].searchsettings fieldset legend {
+  padding: 0 0 0 10px;
+  margin: 0;
+  background: transparent;
+  font-weight:bold;font-family:'Open Sans';color:rgb(26, 71, 98);font-size:13px;line-height:15px;text-shadow:0px 0px 0px rgba(255, 255, 255, 0);}
+    #ajaxsearchprores1_1.vertical,
+    #ajaxsearchprores1_2.vertical,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"].vertical {
+    padding: 4px;
+    background: rgb(153, 218, 241);
+    border-radius: 3px;
+    border:0px none #000000;border-radius:3px 3px 3px 3px;    box-shadow:0px 0px 0px 0px #000000 ;    visibility: hidden;
+    display: none;
+}
+
+    #ajaxsearchprores1_1.vertical .item .asp_content h3,
+    #ajaxsearchprores1_2.vertical .item .asp_content h3,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"].vertical .item .asp_content h3 {
+    display: inline;
+}
+
+    #ajaxsearchprores1_1.vertical .results .item .asp_content,
+    #ajaxsearchprores1_2.vertical .results .item .asp_content,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"].vertical .results .item .asp_content {
+    overflow: hidden;
+    width: auto;
+    height: auto;
+    background: transparent;
+    margin: 0;
+    padding: 0 10px;
+}
+
+    #ajaxsearchprores1_1.vertical .results .item .asp_image,
+    #ajaxsearchprores1_2.vertical .results .item .asp_image,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"].vertical .results .item .asp_image {
+    width: 70px;
+    height: 70px;
+    margin: 2px 8px 0px 0;
+}
+
+    #ajaxsearchprores1_1.vertical .results .asp_spacer,
+    #ajaxsearchprores1_2.vertical .results .asp_spacer,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"].vertical .results .asp_spacer {
+    background: rgba(204, 204, 204, 1);
+}
+
+    #ajaxsearchprores1_1 .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar,
+    #ajaxsearchprores1_2 .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+    background:#fff; /* rgba fallback */
+    background:rgba(255, 255, 255,0.9);
+}
+
+    #ajaxsearchprores1_1 .mCSB_scrollTools .mCSB_dragger:hover .mCSB_dragger_bar,
+    #ajaxsearchprores1_2 .mCSB_scrollTools .mCSB_dragger:hover .mCSB_dragger_bar,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .mCSB_scrollTools .mCSB_dragger:hover .mCSB_dragger_bar {
+    background:rgba(255, 255, 255,0.95);
+}
+
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .mCSB_scrollTools .mCSB_dragger:active .mCSB_dragger_bar,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .mCSB_scrollTools .mCSB_dragger.mCSB_dragger_onDrag .mCSB_dragger_bar{
+    background:rgba(255, 255, 255,1);
+}
+
+div.ajaxsearchpro[id*="ajaxsearchprores1_"].horizontal .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar{
+    background:#fff; /* rgba fallback */
+    background:rgb(250, 250, 250);
+    opacity: 0.9;
+}
+div.ajaxsearchpro[id*="ajaxsearchprores1_"].horizontal .mCSB_scrollTools .mCSB_dragger:hover .mCSB_dragger_bar{
+    background:rgb(250, 250, 250);
+    opacity: 0.95;
+}
+
+div.ajaxsearchpro[id*="ajaxsearchprores1_"].horizontal .mCSB_scrollTools .mCSB_dragger:active .mCSB_dragger_bar,
+div.ajaxsearchpro[id*="ajaxsearchprores1_"].horizontal .mCSB_scrollTools .mCSB_dragger.mCSB_dragger_onDrag .mCSB_dragger_bar{
+    background: rgb(250, 250, 250);
+}
+
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .mCSB_scrollTools .mCSB_buttonDown {
+    position: relative;
+    margin: -16px 0px 0 3px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 6px 5px 0 5px;
+    border-color: rgba(10, 63, 77, 1) transparent transparent transparent;
+}
+
+div.ajaxsearchpro[id*="ajaxsearchprores1_"] .mCSB_scrollTools .mCSB_buttonUp {
+    position: relative;
+    margin: -8px 0px 0 3px;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 0 5px 6px 5px;
+    border-color: transparent transparent rgba(10, 63, 77, 1) transparent;
+}/* Generated at: 2016-12-13 14:42:37 */

@@ -1,0 +1,167 @@
+/*!
+ * Screets Chat X - Icons
+ * Author: @screetscom
+ *
+ * COPYRIGHT © 2016 Screets d.o.o. All rights reserved.
+ * This  is  commercial  software,  only  users  who have purchased a valid
+ * license  and  accept  to the terms of the  License Agreement can install
+ * and use this program.
+ */
+
+@charset "UTF-8";
+
+@font-face {
+  font-family: "scx";
+  src:url("../fonts/scx.eot");
+  src:url("../fonts/scx.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/scx.woff") format("woff"),
+    url("../fonts/scx.ttf") format("truetype"),
+    url("../fonts/scx.svg#scx") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+.schat-w [data-icon]:before {
+  font-family: "scx" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="scx-ico-"]:before,
+[class*=" scx-ico-"]:before {
+  font-family: "scx" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.scx-ico-attach:before {
+  content: "\66";
+}
+.scx-ico-img:before {
+  content: "\64";
+}
+.scx-ico-close:before {
+  content: "\67";
+}
+.scx-ico-up:before {
+  content: "\68";
+}
+.scx-ico-down:before {
+  content: "\69";
+}
+.scx-ico-right:before {
+  content: "\61";
+}
+.scx-ico-chat:before {
+  content: "\65";
+}
+.scx-ico-dislik:before {
+  content: "\62";
+}
+.scx-ico-like:before {
+  content: "\63";
+}
+.scx-ico-twitter:before {
+  content: "\6a";
+}
+.scx-ico-facebook:before {
+  content: "\6b";
+}
+.scx-ico-linkedin:before {
+  content: "\6d";
+}
+.scx-ico-send:before {
+  content: "\6f";
+}
+.scx-ico-mail:before {
+  content: "\70";
+}
+.scx-ico-ok:before {
+  content: "\71";
+}
+.scx-ico-skype:before {
+  content: "\72";
+}
+.scx-ico-vimeo:before {
+  content: "\74";
+}
+.scx-ico-github:before {
+  content: "\75";
+}
+.scx-ico-slack:before {
+  content: "\76";
+}
+.scx-ico-slideshare:before {
+  content: "\77";
+}
+.scx-ico-medium:before {
+  content: "\78";
+}
+.scx-ico-warn:before {
+  content: "\79";
+}
+.scx-ico-login:before {
+  content: "\7a";
+}
+.scx-ico-logout:before {
+  content: "\41";
+}
+.scx-ico-phone:before {
+  content: "\6c";
+}
+.scx-ico-star:before {
+  content: "\73";
+}
+.scx-ico-options:before {
+  content: "\42";
+}
+.scx-ico-menu:before {
+  content: "\43";
+}
+.scx-ico-new-win:before {
+  content: "\44";
+}
+.scx-ico-search:before {
+  content: "\45";
+}
+.scx-ico-cancel:before {
+  content: "\46";
+}
+.scx-ico-mobile:before {
+  content: "\47";
+}
+.scx-ico-database:before {
+  content: "\48";
+}
+.scx-ico-user:before {
+  content: "\49";
+}
+.scx-ico-pencil:before {
+  content: "\4a";
+}
+.scx-ico-youtube:before {
+  content: "\4b";
+}
+.scx-ico-night-bird:before {
+  content: "\4c";
+}
+.scx-ico-night-bird-o:before {
+  content: "\6e";
+}
+.scx-ico-in-chat:before {
+  content: "\4e";
+}

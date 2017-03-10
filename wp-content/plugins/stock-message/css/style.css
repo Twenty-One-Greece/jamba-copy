@@ -1,0 +1,22 @@
+.wcoos-amount{
+	color: white;
+	background-color: #B619E9;
+	border-radius: 50%;
+	font-size: 150%;
+	padding: 2%;
+	margin-right: 10px;
+}
+
+.wcoos-instock{
+	border-right: 5px solid #B619E9;
+	display: block;
+	color: #B619E9;
+}
+
+.wcoos-comming-soon{
+	border-left: 5px solid #B619E9;
+	display: block;
+	color: #B619E9;
+	font-size: 150%;
+	padding-left: 10px;
+}

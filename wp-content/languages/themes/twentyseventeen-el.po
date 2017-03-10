@@ -1,0 +1,129 @@
+# Translation of Themes - Twenty Seventeen in Greek
+# This file is distributed under the same license as the Themes - Twenty Seventeen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 17:22:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: el_GR\n"
+"Project-Id-Version: Themes - Twenty Seventeen\n"
+
+#: template-parts/post/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Φαίνεται ότι δε βρήκαμε αυτό που ζητούσατε. Αν θέλετε, δοκιμάστε την αναζήτηση."
+
+#: search.php:50
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Λυπούμαστε, αλλά τίποτα δε βρέθηκε που ταιριάζει στους όρους αναζήτησης. Παρακαλώ προσπαθήστε ξανά με άλλες λέξεις κλειδιά."
+
+#: template-parts/post/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Έτοιμοι για την πρώτη σας δημοσίευση; <a href=\"%1$s\">Πάμε</a>!"
+
+#: search.php:21 template-parts/post/content-none.php:17
+msgid "Nothing Found"
+msgstr "Δε βρέθηκε τίποτα"
+
+#: comments.php:66 single.php:31
+msgid "Previous"
+msgstr "Προηγούμενη"
+
+#: comments.php:67 single.php:32
+msgid "Next"
+msgstr "Επόμενο"
+
+#: searchform.php:19
+msgctxt "submit button"
+msgid "Search"
+msgstr "Αναζήτηση"
+
+#: searchform.php:18
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Αναζήτηση&hellip;"
+
+#: searchform.php:16
+msgctxt "label"
+msgid "Search for:"
+msgstr "Αναζήτηση για:"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "Αποτελέσματα αναζήτησης για : %s"
+
+#: inc/customizer.php:49
+msgid "Dark"
+msgstr "Σκούρο"
+
+#: template-parts/page/content-page.php:25
+#: template-parts/post/content-audio.php:85
+#: template-parts/post/content-gallery.php:71
+#: template-parts/post/content-image.php:61
+#: template-parts/post/content-video.php:83 template-parts/post/content.php:59
+msgid "Pages:"
+msgstr "Σελίδες:"
+
+#: template-parts/navigation/navigation-top.php:13
+msgid "Menu"
+msgstr "Μενού"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Μετάβαση στο περιεχόμενο"
+
+#: functions.php:317
+msgid "Add widgets here to appear in your sidebar."
+msgstr "Προσθέστε μικροεφαρμογές εδώ ώστε να εμφανιστούν στην πλευρική στήλη."
+
+#: functions.php:315
+msgid "Sidebar"
+msgstr "Πλευρική στήλη"
+
+#: functions.php:64 functions.php:194
+msgid "Social Links Menu"
+msgstr "Μενού Συνδέσμων Κοινωνικών Δικτύων"
+
+#: template-parts/footer/site-info.php:13
+msgid "Proudly powered by %s"
+msgstr "Με την υποστήριξη του %s"
+
+#. #-#-#-#-#  twentyseventeen.pot (Twenty Seventeen 1.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: template-parts/footer/site-info.php:13
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: footer.php:25
+msgid "Footer Social Links Menu"
+msgstr "Μενού κοινωνικών συνδέσμων υποσέλιδου"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "Τα σχόλια είναι απενεργοποιημένα."
+
+#: archive.php:47 index.php:52 search.php:45
+msgid "Page"
+msgstr "Σελίδα"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ωπα! Αυτή η σελίδα δε βρέθηκε."
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Φαίνεται ότι δε βρέθηκε τίποτα σε αυτή την τοποθεσία. Μήπως να δοκιμάζατε μια αναζήτηση;"
+
+#: archive.php:45 index.php:50 search.php:43
+msgid "Previous page"
+msgstr "Προηγούμενη σελίδα"
+
+#: archive.php:46 index.php:51 search.php:44
+msgid "Next page"
+msgstr "Επόμενη σελίδα"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "Η Ομάδα του WordPress"

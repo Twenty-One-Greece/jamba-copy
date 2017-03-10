@@ -1,0 +1,551 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FG Joomla to WordPress Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-04 22:15+0200\n"
+"PO-Revision-Date: 2015-10-04 22:20+0200\n"
+"Last-Translator: F. GILLES\n"
+"Language-Team: studioZ2.com <studio@studioZ2.com>\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: admin/class-fg-joomla-to-wordpress-admin.php\n"
+"X-Poedit-SearchPathExcluded-1: admin/class-fg-joomla-to-wordpress-modules-"
+"check.php\n"
+"X-Poedit-SearchPathExcluded-2: admin/class-fg-joomla-to-wordpress-weblinks."
+"php\n"
+"X-Poedit-SearchPathExcluded-3: admin/class-fg-joomla-to-wordpress-"
+"compatibility.php\n"
+"X-Poedit-SearchPathExcluded-4: fg-joomla-to-wordpress_1.php\n"
+"X-Poedit-SearchPathExcluded-5: admin/partials/actions.php\n"
+"X-Poedit-SearchPathExcluded-6: admin/partials/after-migration.php\n"
+"X-Poedit-SearchPathExcluded-7: admin/partials/behavior.php\n"
+"X-Poedit-SearchPathExcluded-8: admin/partials/database-info.php\n"
+"X-Poedit-SearchPathExcluded-9: admin/partials/empty-content.php\n"
+"X-Poedit-SearchPathExcluded-10: admin/partials/extra-features.php\n"
+"X-Poedit-SearchPathExcluded-11: admin/partials/paypal-donate.php\n"
+"X-Poedit-SearchPathExcluded-12: admin/partials/settings.php\n"
+
+#: admin/class-fg-joomla-to-wordpress-menus.php:491
+#, php-format
+msgid "%d menu item imported"
+msgid_plural "%d menu items imported"
+msgstr[0] "Zaimportowano %d element Menu"
+msgstr[1] "Zaimportowano %d elementów Menu"
+msgstr[2] "Zaimportowano %d elementów Menu"
+
+#: admin/class-fg-joomla-to-wordpress-modules.php:147
+#, php-format
+msgid "%d module imported"
+msgid_plural "%d modules imported"
+msgstr[0] "%d moduł importowane"
+msgstr[1] "%d moduł importowane"
+msgstr[2] "%d moduł importowane"
+
+#: admin/class-fg-joomla-to-wordpress-premium-admin.php:101
+msgid "Import Joomla Premium (FG)"
+msgstr "Import Joomla Premium (FG)"
+
+#: admin/class-fg-joomla-to-wordpress-premium-admin.php:102
+msgid ""
+"This plugin will import sections, categories, posts, tags, medias (images, "
+"attachments), web links, navigation menus and users from a Joomla database "
+"into WordPress."
+msgstr ""
+"Ten plugin będzie importować sekcje, kategorie, posty, Tagi, medias (obrazy, "
+"załączniki), łącza internetowe, menu nawigacyjne i użytkowników z bazy "
+"danych Joomla do WordPress."
+
+#: admin/class-fg-joomla-to-wordpress-premium-admin.php:103
+msgid ""
+"For any issue, please read the <a href=\"http://www.fredericgilles.net/fg-"
+"joomla-to-wordpress/faq\" target=\"_blank\">FAQ</a> first."
+msgstr ""
+"Dla każdego problemu, prosimy najpierw przeczytać <a href=\"http://www."
+"fredericgilles.net/fg-joomla-to-wordpress/faq\" target=\"_blank\">FAQ</a> ."
+
+#: admin/class-fg-joomla-to-wordpress-premium-admin.php:108
+#, php-format
+msgid "%d user"
+msgid_plural "%d users"
+msgstr[0] "%d użytkownik"
+msgstr[1] "%d użytkowników"
+msgstr[2] "%d użytkowników"
+
+#: admin/class-fg-joomla-to-wordpress-premium-admin.php:112
+#, php-format
+msgid "%d menu item"
+msgid_plural "%d menu items"
+msgstr[0] "%d element Menu"
+msgstr[1] "%d elementów Menu"
+msgstr[2] "%d elementów Menu"
+
+#: admin/class-fg-joomla-to-wordpress-premium-admin.php:175
+msgid ""
+"You need to fully empty the database if you want to use the \"Keep Joomla ID"
+"\" feature."
+msgstr ""
+"Należy całkowicie opróżnić bazę danych, jeśli chcesz korzystać z funkcji "
+"\"Zachowaj ID Joomla\"."
+
+#: admin/class-fg-joomla-to-wordpress-tags.php:87
+#, php-format
+msgid "%d tag imported"
+msgid_plural "%d tags imported"
+msgstr[0] "Zaimportowano %d Tag"
+msgstr[1] "Zaimportowano %d Tagów"
+msgstr[2] "Zaimportowano %d Tagów"
+
+#: admin/class-fg-joomla-to-wordpress-users.php:98
+msgid "Users deleted"
+msgstr "Usunięto użytkowników"
+
+#: admin/class-fg-joomla-to-wordpress-users.php:373
+#, php-format
+msgid "%d user imported"
+msgid_plural "%d users imported"
+msgstr[0] "Zaimportowano %d użytkownika"
+msgstr[1] "Zaimportowano %d użytkowników"
+msgstr[2] "Zaimportowano %d użytkowników"
+
+#: admin/partials/premium-features.php:2
+msgid "SEO:"
+msgstr "SEO:"
+
+#: admin/partials/premium-features.php:4
+msgid ""
+"Import the meta description and the meta keywords to WordPress SEO by Yoast"
+msgstr ""
+"Importowanie opisów Meat i słów kluczowych do wtyczki WordPress SEO by Yoast"
+
+#: admin/partials/premium-features.php:6
+msgid "Set the meta data from menus instead of articles"
+msgstr "Ustawić dane meta z menu a nie artykuły"
+
+#: admin/partials/premium-features.php:8
+msgid "Set the post slugs from menus instead of aliases"
+msgstr "Zestaw po ślimaki z menu zamiast aliasów"
+
+#: admin/partials/premium-features.php:10
+msgid "Keep the Joomla articles IDs"
+msgstr "Zachowaj identyfikatory Joomla ID dla Artykułów."
+
+#: admin/partials/premium-features.php:12
+msgid "Redirect the Joomla URLs"
+msgstr "Przeadresować Joomla URLs"
+
+#: admin/partials/premium-features.php:16
+msgid "Partial import:"
+msgstr "Import częściowy:"
+
+#: admin/partials/premium-features.php:18
+msgid "expand / collapse"
+msgstr "Rozwiń / Zwiń"
+
+#: admin/partials/premium-features.php:20
+msgid "Don't import the categories"
+msgstr "Nie Importuj Kategorie"
+
+#: admin/partials/premium-features.php:22
+msgid "Don't import the articles"
+msgstr "Nie Importuj artykuły"
+
+#: admin/partials/premium-features.php:24
+msgid "Don't import the web links"
+msgstr "Nie Importuj łącza sieci web"
+
+#: admin/partials/premium-features.php:26
+msgid "Don't import the users"
+msgstr "Nie Importuj użytkowników"
+
+#: admin/partials/premium-features.php:28
+msgid "Don't import the menus"
+msgstr "Nie Importuj menu"
+
+#: admin/partials/premium-features.php:30
+msgid "Don't import the modules"
+msgstr "Nie Importuj modułów"
+
+#~ msgid "Error:"
+#~ msgstr "Błąd:"
+
+#~ msgid "WordPress database"
+#~ msgstr "Baza danych WordPress"
+
+#~ msgid ""
+#~ "If you want to rerun the import, you must empty the WordPress content "
+#~ "with the button hereafter."
+#~ msgstr ""
+#~ "Jeśli chcesz ponownie uruchomić import, należy opróżnić zawartość "
+#~ "WordPress za pomocą przycisku poniżej."
+
+#~ msgid "Remove only new imported posts"
+#~ msgstr "Usuń tylko nowo zaimportowane Wpisy"
+
+#~ msgid "Remove all WordPress content"
+#~ msgstr "Usuń całą zawartość instalacji WordPress"
+
+#~ msgid "Empty WordPress content"
+#~ msgstr "Opróżnij zawartość instalacji WordPress"
+
+#~ msgid "Joomla web site parameters"
+#~ msgstr "Parametry strony z instalacją Joomla"
+
+#~ msgid "URL (beginning with http://)"
+#~ msgstr "URL (rozpocznij z http://)"
+
+#~ msgid "Joomla version"
+#~ msgstr "Wersja Joomli"
+
+#~ msgid "Joomla database parameters"
+#~ msgstr "Parametry bazy danych "
+
+#~ msgid "Hostname"
+#~ msgstr "Hostname"
+
+#~ msgid "Port"
+#~ msgstr "Port"
+
+#~ msgid "Database"
+#~ msgstr "Baza danych"
+
+#~ msgid "Username"
+#~ msgstr "Użytkownik"
+
+#~ msgid "Password"
+#~ msgstr "Hasło"
+
+#~ msgid "Joomla Table Prefix"
+#~ msgstr "Prefix tabeli w bazie danych Joomla"
+
+#~ msgid "Test the connection"
+#~ msgstr "TESTUJ połączenie"
+
+#~ msgid "Behavior"
+#~ msgstr "Zachowanie"
+
+#, fuzzy
+#~ msgid ""
+#~ "The text before the «Read more» split will be imported into the excerpt."
+#~ msgstr "Tekst znajdujący się powyżej \"czytaj więcej\" zaimportuj do Wypisu"
+
+#, fuzzy
+#~ msgid ""
+#~ "The text before the «Read more» split will be imported into the post "
+#~ "content with a «read more» link."
+#~ msgstr ""
+#~ "Zaznaczone: tekst z ramki Intro w Joomla zostanie zaimportowany do Wypisu "
+#~ "w WordPress. Odznaczone: tekst z ramki Intro w Joomla zostanie "
+#~ "zaimportowany do WordPress w części głównej razem z linkiem «czytaj "
+#~ "więcej»."
+
+#, fuzzy
+#~ msgid "to the content"
+#~ msgstr "TESTUJ połączenie"
+
+#~ msgid "Archived posts"
+#~ msgstr "Artykuły zarchiwizowane"
+
+#~ msgid "Do not import archived posts"
+#~ msgstr "Nie importuj zarchiwizowanych artykułów"
+
+#~ msgid "Not imported"
+#~ msgstr "Nie zaimportowane"
+
+#~ msgid "Import archived posts as drafts"
+#~ msgstr "Importowanie zarchiwizowanych artykułów jako Szkice"
+
+#~ msgid "Import as drafts"
+#~ msgstr "Importuj jako Szkice"
+
+#~ msgid "Import archived posts as published posts"
+#~ msgstr "Importuj zarchiwizowane artykuły jak opublikowane Wpisy "
+
+#~ msgid "Import as published posts"
+#~ msgstr "Importuj jako opublikowane Wpisy"
+
+#~ msgid "Medias:"
+#~ msgstr "Media:"
+
+#~ msgid "Skip media"
+#~ msgstr "Pomiń Media"
+
+#, fuzzy
+#~ msgid "Import first image:"
+#~ msgstr "Importuj pierwszy obraz jako Ikonę Wpisu"
+
+#~ msgid "Import external media"
+#~ msgstr "Importuj Media zewnętrzne"
+
+#~ msgid ""
+#~ "Checked: download the media even if it has already been imported. "
+#~ "Unchecked: Download only media which were not already imported."
+#~ msgstr ""
+#~ "Zaznaczone: pobierz Media, nawet jeśli zostały one już zaimportowane. "
+#~ "Odznaczone: pobierz tylko te Media, które nie zostały wcześniej "
+#~ "zaimportowane."
+
+#~ msgid ""
+#~ "Force media import. Leave unchecked if you have already transfered the "
+#~ "media.<br />It will speed up the import."
+#~ msgstr ""
+#~ "Wymuś import Mediów. Pozostaw odznaczone jeśli Media zostały już "
+#~ "przeniesione. <br /> Zaznaczenie tej opcji przyśpieszy import."
+
+#~ msgid "Meta keywords:"
+#~ msgstr "Słowa kluczowe Meta:"
+
+#~ msgid "Import meta keywords as tags"
+#~ msgstr "Importuj słowa kluczowe Meta jako Tagi"
+
+#~ msgid "Create pages:"
+#~ msgstr "Utwórz Strony:"
+
+#~ msgid "Import as pages instead of blog posts (without categories)"
+#~ msgstr "Importuj jako Strony zamiast Wpisów (bez kategorii)"
+
+#~ msgid "Keep the Joomla article ID"
+#~ msgstr "Zachowaj identyfikatory Joomla ID dla Artykułów."
+
+#~ msgid ""
+#~ "Redirect the Joomla URLs. Don't use this option while keeping the Joomla "
+#~ "IDs ; it may cause redirects loops."
+#~ msgstr ""
+#~ "Przekierowanie adresów URL z Joomla. Nie należy używać tej opcji, przy "
+#~ "zachowaniu identyfikatorów Joomla ID; może to powodować pętlę "
+#~ "przekierowań."
+
+#~ msgid "Save settings"
+#~ msgstr "Zapisz ustawienia"
+
+#~ msgid "Import content from Joomla to WordPress"
+#~ msgstr "Importuj treśći z Joomla do WordPress"
+
+#~ msgid "After the migration"
+#~ msgstr "Po migracji"
+
+#~ msgid ""
+#~ "During the migration, prefixes have been added to the categories slugs to "
+#~ "avoid categories duplicates. This button will remove these prefixes which "
+#~ "are useless after the migration."
+#~ msgstr ""
+#~ "Podczas migracji do nazw kategorii zostały dodane prefiksy, aby uniknąć "
+#~ "duplikatów. Ten Przycisk umożliwia usunięcie tych prefiksów, które są "
+#~ "bezużyteczne po migracji."
+
+#~ msgid "Remove the prefixes from the categories"
+#~ msgstr "Usuń prefiksy z kategorii"
+
+#~ msgid ""
+#~ "If you have links between articles, you need to modify internal links."
+#~ msgstr ""
+#~ "Jeśli istnieją powiązania (linki) pomiędzy artykułami, należy "
+#~ "zmodyfikować linki wewnętrzne."
+
+#~ msgid "Modify internal links"
+#~ msgstr "Modyfikuj linki wewnętrzne"
+
+#~ msgid ""
+#~ "If you found this plugin useful and it saved you many hours or days, "
+#~ "please rate it on <a href=\"http://wordpress.org/extend/plugins/fg-joomla-"
+#~ "to-wordpress/\">FG Joomla to WordPress</a>. You can also make a donation "
+#~ "using the button below."
+#~ msgstr ""
+#~ "Jeśli ta wtyczka okazała się przydatna i zaoszczędziła Ci czas, oceń ją "
+#~ "proszę  na <a href=\"http://wordpress.org/extend/plugins/fg-joomla-to-"
+#~ "wordpress/\">FG Joomla to WordPress</a>. Można również wesprzeć jej "
+#~ "rozówj finansowo - dokonując wpłaty za pomocą przycisku poniżej."
+
+#~ msgid ""
+#~ "All new imported posts or pages and their comments will be deleted from "
+#~ "WordPress."
+#~ msgstr ""
+#~ "Wszystkie nowe importowane Wpisy i Strony wraz z ich komentarzami zostaną "
+#~ "usunięte z WordPress."
+
+#~ msgid "All content will be deleted from WordPress."
+#~ msgstr "Wszystkie treści zostana usunięte z WordPress."
+
+#~ msgid "Please select a remove option."
+#~ msgstr "Proszę wybrać opcję Usuń."
+
+#~ msgid "Joomla (FG)"
+#~ msgstr "Joomla (FG)"
+
+#~ msgid ""
+#~ "Import categories, articles, medias (images, attachments) and users from "
+#~ "a Joomla database into WordPress."
+#~ msgstr ""
+#~ "Importuj Kategorie, Artykuły, Media (zdjęcia, załączniki) i użytkowników "
+#~ "z bazy danych Joomla do WordPress."
+
+#~ msgid ""
+#~ "This plugin will import sections, categories, posts, medias (images, "
+#~ "attachments), navigation menus and users from a Joomla database into "
+#~ "WordPress."
+#~ msgstr ""
+#~ "Ta wtyczka zaimportuje Sekcje, Kategorie, Artykuły, Media (zdjęcia, "
+#~ "załączniki), elementy Menu i Użytkowników z bazy danych Joomla do "
+#~ "WordPress."
+
+#~ msgid ""
+#~ "Import categories, articles and medias (images, attachments) from a "
+#~ "Joomla database into WordPress."
+#~ msgstr ""
+#~ "Importuj Kategorie, Artykuły i Media (zdjęcia, załączniki) z bazy danych "
+#~ "Joomla do WordPress."
+
+#~ msgid "WordPress content removed"
+#~ msgstr "Usunięto treści WordPress"
+
+#~ msgid "Couldn't remove content"
+#~ msgstr "Nie można usunąć treści"
+
+#~ msgid "Settings saved"
+#~ msgstr "Ustawienia zapisano"
+
+#~ msgid "Prefixes removed from categories"
+#~ msgstr "Prefiksy usunięte z kategorii"
+
+#~ msgid "%d internal link modified"
+#~ msgid_plural "%d internal links modified"
+#~ msgstr[0] "Zmodyfikowano %d link wewnętrznych"
+#~ msgstr[1] "Zmodyfikowano %d linków wewnętrznych"
+#~ msgstr[2] ""
+
+#~ msgid "Import Joomla (FG)"
+#~ msgstr "Import Joomla (FG) "
+
+#~ msgid ""
+#~ "This plugin will import sections, categories, posts and medias (images, "
+#~ "attachments) from a Joomla database into WordPress.<br />Compatible with "
+#~ "Joomla versions 1.5, 1.6, 1.7, 2.5, 3.0, 3.1 and 3.2."
+#~ msgstr ""
+#~ "Ta wtyczka zaimportuje sekcje, kategorie, artykuły i media (obrazy, "
+#~ "załączniki) z bazy danych Joomla do tej instlacji WordPress. <br /> "
+#~ "Kompatybilny z Joomla w wersji 1.5, 1.6, 1.7, 2.5, 3.0, 3.1 i 3.2."
+
+#~ msgid "%d category"
+#~ msgid_plural "%d categories"
+#~ msgstr[0] "%d Kategoria"
+#~ msgstr[1] "%d Kategorii"
+#~ msgstr[2] ""
+
+#~ msgid "%d post"
+#~ msgid_plural "%d posts"
+#~ msgstr[0] "%d Wpis"
+#~ msgstr[1] "%d Wpisów"
+#~ msgstr[2] ""
+
+#~ msgid "%d page"
+#~ msgid_plural "%d pages"
+#~ msgstr[0] "%d Strona"
+#~ msgstr[1] "%d Stron"
+#~ msgstr[2] ""
+
+#~ msgid "%d media"
+#~ msgid_plural "%d medias"
+#~ msgstr[0] "%d Media"
+#~ msgstr[1] "%d Mediów"
+#~ msgstr[2] ""
+
+#~ msgid "%d tag"
+#~ msgid_plural "%d tags"
+#~ msgstr[0] "%d Tag"
+#~ msgstr[1] "%d Tagów"
+#~ msgstr[2] ""
+
+#~ msgid ""
+#~ "Couldn't connect to the Joomla database. Please check your parameters. "
+#~ "And be sure the WordPress server can access the Joomla database."
+#~ msgstr ""
+#~ "Nie można połączyć się z bazą danych Joomla. Prosimy o sprawdzenie "
+#~ "parametrów. Prosimy upewnić się, że serwer WordPress może uzyskać dostęp "
+#~ "do bazy danych Joomla."
+
+#~ msgid "Connected with success to the Joomla database"
+#~ msgstr "Sukces - połączono z bazą danych Joomla"
+
+#~ msgid "%d category imported"
+#~ msgid_plural "%d categories imported"
+#~ msgstr[0] "Zaimportowano %d Kategorię"
+#~ msgstr[1] "Zaimportowano %d Kategorii"
+#~ msgstr[2] ""
+
+#~ msgid "%d page imported"
+#~ msgid_plural "%d pages imported"
+#~ msgstr[0] "Zaimportowano %d Stronę"
+#~ msgstr[1] "Zaimportowano %d Stron"
+#~ msgstr[2] ""
+
+#~ msgid "%d post imported"
+#~ msgid_plural "%d posts imported"
+#~ msgstr[0] "Zaimportowano %d Wpis"
+#~ msgstr[1] "Zaimportowano %d Wpisów"
+#~ msgstr[2] ""
+
+#~ msgid "%d media imported"
+#~ msgid_plural "%d medias imported"
+#~ msgstr[0] "Zaimportowano %d Media"
+#~ msgstr[1] "Zaimportowano %d Mediów"
+#~ msgstr[2] ""
+
+#~ msgid "Don't forget to modify internal links."
+#~ msgstr "Nie zapomnij zmienić linki wewnętrzne."
+
+#~ msgid "Posts with a \"read more\" split:"
+#~ msgstr "Wpisy z podziałem \"czytaj dalej\":"
+
+#~ msgid ""
+#~ "Remove all posts, categories, tags, medias, comments, pages, navigation "
+#~ "menus and users"
+#~ msgstr ""
+#~ "Supprimer tous les articles, catégories, mots-clefs, médias, "
+#~ "commentaires, pages, menus et utilisateurs"
+
+#~ msgid ""
+#~ "All posts, categories, tags, medias, comments, pages and users will be "
+#~ "deleted from WordPress."
+#~ msgstr ""
+#~ "Tous les articles, catégories, mots-clefs, médias, commentaires, pages et "
+#~ "utilisateurs vont être supprimés de WordPress."
+
+#~ msgid "Navigation menus deleted"
+#~ msgstr "Menus supprimés"
+
+#~ msgid "Categories, tags, posts, comments, pages and medias deleted"
+#~ msgstr ""
+#~ "Catégories, mots-clefs, articles, commentaires, pages et médias supprimés"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Joomla Premium (FG)"
+#~ msgstr "Joomla Premium (FG)"
+
+#~ msgid "%d image"
+#~ msgid_plural "%d images"
+#~ msgstr[0] "%d image"
+#~ msgstr[1] "%d images"
+
+#~ msgid "Images:"
+#~ msgstr "Images :"
+
+#, fuzzy
+#~ msgid "FG Joomla to WordPress"
+#~ msgstr "Importer le contenu de Joomla vers WordPress"
+
+#, fuzzy
+#~ msgid ""
+#~ "A plugin to migrate categories, posts and images from Joomla to WordPress"
+#~ msgstr ""
+#~ "Cette extension va importer les sections, les catégories, les articles et "
+#~ "les images depuis une base Joomla vers WordPress."

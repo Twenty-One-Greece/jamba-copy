@@ -1,0 +1,283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce COD Advanced v1.2.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-03-14 07:39:28+0000\n"
+"Last-Translator: admin <admin@localhost.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: woocommerce_advanced_cod.php:68
+#@ askoracle
+msgid "WooCommerce Advanced COD Plugin Settings"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:74
+#@ askoracle
+msgid "Disable Advanced COD?"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:76
+#@ askoracle
+msgid "Select if you want to disable advanced COD plugin settings."
+msgstr ""
+
+#: woocommerce_advanced_cod.php:82
+#@ askoracle
+msgid "Display icon on checkout page?"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:84
+#@ askoracle
+msgid "Select if you want to display COD icon on checkout page."
+msgstr ""
+
+#: woocommerce_advanced_cod.php:90
+#@ askoracle
+msgid "Minimum cart amount to display"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:92
+#@ askoracle
+msgid "Minimum cart amount to display the payment option on checkout page"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:98
+#@ askoracle
+msgid "Maximum cart amount to hide"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:100
+#@ askoracle
+msgid "Maximum cart amount to hide the payment option on checkout page"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:106
+#@ askoracle
+msgid "Minimum cart amount for free COD"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:108
+#@ askoracle
+msgid "Maximum cart amount to apply extra charge as per \"Extra charges\" settings."
+msgstr ""
+
+#: woocommerce_advanced_cod.php:114
+#@ askoracle
+msgid "Extra charges"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:116
+#@ askoracle
+msgid "Extra charges applied on checkout while select COD payment method"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:122
+#@ askoracle
+msgid "Message for extra charges"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:124
+#@ askoracle
+msgid "Message for extra charges while applied on checkout"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:130
+#@ askoracle
+msgid "Extra charges type"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:132
+#@ askoracle
+msgid "Extra charges either amount or percentage of cart amount"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:135
+#@ askoracle
+msgid "Total Add"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:135
+#@ askoracle
+msgid "Total % Add"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:139
+#@ askoracle
+msgid "Round up total amount by"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:141
+#@ askoracle
+msgid "Select the factor to round the order total amount by."
+msgstr ""
+
+#: woocommerce_advanced_cod.php:155
+#@ askoracle
+msgid "Exclude categories"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:157
+#@ askoracle
+msgid "Select categories to hide COD while category products is in the cart."
+msgstr ""
+
+#: woocommerce_advanced_cod.php:180
+#@ askoracle
+msgid "Select Country"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:182
+#@ askoracle
+msgid "Select country to hide COD while user has same country."
+msgstr ""
+
+#: woocommerce_advanced_cod.php:189
+#@ askoracle
+msgid "Country include/exclude?"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:191
+#@ askoracle
+msgid "Select country include/exclude to display/hide COD while user have same."
+msgstr ""
+
+#: woocommerce_advanced_cod.php:194
+#@ askoracle
+msgid "Display COD if user is from above country"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:195
+#@ askoracle
+msgid "Hide COD if user is from above country"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:217
+#@ askoracle
+msgid "Select States/Provinces"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:219
+#@ askoracle
+msgid "Select state to hide COD while user has same state."
+msgstr ""
+
+#: woocommerce_advanced_cod.php:226
+#@ askoracle
+msgid "States/Provinces include/exclude?"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:228
+#@ askoracle
+msgid "Select States/Provinces include/exclude to display/hide COD while user have same."
+msgstr ""
+
+#: woocommerce_advanced_cod.php:231
+#@ askoracle
+msgid "Display COD if user is from above state"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:232
+#@ askoracle
+msgid "Hide COD if user is from above state"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:237
+#@ askoracle
+msgid "Enter Cities"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:239
+#@ askoracle
+msgid "Enter comma separated city name to hide COD while user has same city."
+msgstr ""
+
+#: woocommerce_advanced_cod.php:245
+#@ askoracle
+msgid "City include/exclude?"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:247
+#@ askoracle
+msgid "Select City include/exclude to display/hide COD while user have same."
+msgstr ""
+
+#: woocommerce_advanced_cod.php:250
+#@ askoracle
+msgid "Display COD if user is from above city"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:251
+#@ askoracle
+msgid "Hide COD if user is from above city"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:256
+#@ askoracle
+msgid "Postal/Pin codes to hide COD"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:258
+#@ askoracle
+msgid "Enter comma separated postal/pin codes to hide COD on checkout."
+msgstr ""
+
+#: woocommerce_advanced_cod.php:264
+#@ askoracle
+msgid "Postal/Pin code include/exclude?"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:266
+#@ askoracle
+msgid "Select Postal/Pin code include/exclude to display/hide COD while user have same."
+msgstr ""
+
+#: woocommerce_advanced_cod.php:269
+#@ askoracle
+msgid "Display COD if user is from above postal code"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:270
+#@ askoracle
+msgid "Hide COD if user is from above postal code"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:275
+#@ askoracle
+msgid "Hide for virtual and downloadable products?"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:277
+#@ askoracle
+msgid "Select to hide COD option for virtual and downloadable products on checkout page."
+msgstr ""
+
+#: woocommerce_advanced_cod.php:283
+#@ askoracle
+msgid "COD hide message"
+msgstr ""
+
+#: woocommerce_advanced_cod.php:285
+#@ askoracle
+msgid "Message will be display if COD is disabled because of advanced COD settings on checkout page."
+msgstr ""
+
+#: woocommerce_advanced_cod.php:526
+#, php-format
+#@ askoracle
+msgid "%s Extra Charges <small>for purchase less than %s</small>"
+msgstr ""
+

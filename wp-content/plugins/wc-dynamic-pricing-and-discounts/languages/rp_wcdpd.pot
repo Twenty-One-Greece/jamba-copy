@@ -1,0 +1,753 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Dynamic Pricing & Discounts\n"
+"POT-Creation-Date: 2016-04-12 01:11+0300\n"
+"PO-Revision-Date: 2014-03-10 23:22+0300\n"
+"Last-Translator: \n"
+"Language-Team: RightPress <info@rightpress.net>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-KeywordsList: __;_e;_c;__ngettext:1,2;_n:1,2;_nc:1,2;"
+"__ngettext_noop:1,2;_n_noop:1,2;_x:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/classes/libraries/rightpress-updates.class.php:216
+#: includes/classes/libraries/rightpress-updates.class.php:224
+msgid "An unexpected error occurred."
+msgstr ""
+
+#: includes/classes/libraries/rightpress-updates.class.php:354
+#, php-format
+msgid ""
+"<strong>%s</strong> supports automatic updates. To receive them, enter your "
+"CodeCanyon Purchase Code below."
+msgstr ""
+
+#: includes/classes/libraries/rightpress-updates.class.php:359
+#, php-format
+msgid ""
+"New version of <strong>%s</strong> is available. To enable automatic "
+"updates, enter your CodeCanyon Purchase Code below."
+msgstr ""
+
+#: includes/classes/libraries/rightpress-updates.class.php:378
+msgid "Automatic Update Setup"
+msgstr ""
+
+#: includes/classes/libraries/rightpress-updates.class.php:392
+msgid "Purchase Code"
+msgstr ""
+
+#: includes/classes/libraries/rightpress-updates.class.php:395
+msgid "Submit"
+msgstr ""
+
+#: includes/classes/libraries/rightpress-updates.class.php:401
+msgid "Where do I find my Purchase Code?"
+msgstr ""
+
+#: includes/classes/libraries/rightpress-updates.class.php:401
+msgid "Hide This Notice"
+msgstr ""
+
+#: includes/classes/libraries/rightpress-updates.class.php:450
+msgid "Purchase Code format is invalid."
+msgstr ""
+
+#: includes/classes/libraries/rightpress-updates.class.php:458
+msgid "Unable to verify Purchase Code right now. Please try again later."
+msgstr ""
+
+#: includes/classes/libraries/rightpress-updates.class.php:462
+msgid "Purchase Code is not valid."
+msgstr ""
+
+#: includes/classes/libraries/rightpress-updates.class.php:466
+msgid "Purchase Code belongs to another product."
+msgstr ""
+
+#: includes/views/admin/discounts.php:22
+msgid "Manage Cart Discounts"
+msgstr ""
+
+#: includes/views/admin/discounts.php:26 includes/views/admin/pricing.php:26
+msgid "Apply first matched rule"
+msgstr ""
+
+#: includes/views/admin/discounts.php:27 includes/views/admin/pricing.php:27
+msgid "Apply all matched rules"
+msgstr ""
+
+#: includes/views/admin/discounts.php:28 includes/views/admin/pricing.php:28
+msgid "Apply biggest discount"
+msgstr ""
+
+#: includes/views/admin/discounts.php:39
+#: wc-dynamic-pricing-and-discounts.php:942
+msgid "Discount Rule #"
+msgstr ""
+
+#: includes/views/admin/discounts.php:39 includes/views/admin/pricing.php:39
+msgid "Remove"
+msgstr ""
+
+#: includes/views/admin/discounts.php:42 includes/views/admin/pricing.php:42
+msgid "General Settings"
+msgstr ""
+
+#: includes/views/admin/discounts.php:47 includes/views/admin/pricing.php:47
+msgid "Rule description"
+msgstr ""
+
+#: includes/views/admin/discounts.php:49
+#, php-format
+msgid "e.g. additional 5% discount for frequent buyers"
+msgstr ""
+
+#: includes/views/admin/discounts.php:55 includes/views/admin/pricing.php:97
+msgid "Valid from/until"
+msgstr ""
+
+#: includes/views/admin/discounts.php:57 includes/views/admin/pricing.php:99
+msgid "Select date from..."
+msgstr ""
+
+#: includes/views/admin/discounts.php:58 includes/views/admin/pricing.php:100
+msgid "Select date until..."
+msgstr ""
+
+#: includes/views/admin/discounts.php:64
+msgid "Only if pricing not adjusted"
+msgstr ""
+
+#: includes/views/admin/discounts.php:72 includes/views/admin/pricing.php:106
+msgid "Conditions"
+msgstr ""
+
+#: includes/views/admin/discounts.php:78
+msgid "Field"
+msgstr ""
+
+#: includes/views/admin/discounts.php:79 includes/views/admin/discounts.php:188
+#: includes/views/admin/pricing.php:226
+msgid "Value"
+msgstr ""
+
+#: includes/views/admin/discounts.php:91
+msgid "Cart Subtotal"
+msgstr ""
+
+#: includes/views/admin/discounts.php:92
+msgid "Subtotal at least"
+msgstr ""
+
+#: includes/views/admin/discounts.php:93
+msgid "Subtotal less than"
+msgstr ""
+
+#: includes/views/admin/discounts.php:95
+msgid "Cart Item Count"
+msgstr ""
+
+#: includes/views/admin/discounts.php:96
+msgid "Count of cart items at least"
+msgstr ""
+
+#: includes/views/admin/discounts.php:97
+msgid "Count of cart items less than"
+msgstr ""
+
+#: includes/views/admin/discounts.php:99
+msgid "Quantity Sum"
+msgstr ""
+
+#: includes/views/admin/discounts.php:100
+msgid "Sum of item quantities at least"
+msgstr ""
+
+#: includes/views/admin/discounts.php:101
+msgid "Sum of item quantities less than"
+msgstr ""
+
+#: includes/views/admin/discounts.php:103
+msgid "Products In Cart"
+msgstr ""
+
+#: includes/views/admin/discounts.php:104
+msgid "At least one product in cart"
+msgstr ""
+
+#: includes/views/admin/discounts.php:105
+msgid "None of selected products in cart"
+msgstr ""
+
+#: includes/views/admin/discounts.php:107
+msgid "Categories In Cart"
+msgstr ""
+
+#: includes/views/admin/discounts.php:108
+msgid "At least one category in cart"
+msgstr ""
+
+#: includes/views/admin/discounts.php:109
+msgid "None of selected categories in cart"
+msgstr ""
+
+#: includes/views/admin/discounts.php:111
+msgid "Customer Details (must be logged in)"
+msgstr ""
+
+#: includes/views/admin/discounts.php:112
+msgid "User in list"
+msgstr ""
+
+#: includes/views/admin/discounts.php:113
+msgid "User role in list"
+msgstr ""
+
+#: includes/views/admin/discounts.php:114
+msgid "User capability in list"
+msgstr ""
+
+#: includes/views/admin/discounts.php:115
+msgid "Order count to date at least"
+msgstr ""
+
+#: includes/views/admin/discounts.php:116
+msgid "Amount spent to date at least"
+msgstr ""
+
+#: includes/views/admin/discounts.php:117
+msgid "Shipping country in list"
+msgstr ""
+
+#: includes/views/admin/discounts.php:122
+msgid "e.g. 50"
+msgstr ""
+
+#: includes/views/admin/discounts.php:165
+msgid "Add Condition"
+msgstr ""
+
+#: includes/views/admin/discounts.php:172
+msgid "Discount"
+msgstr ""
+
+#: includes/views/admin/discounts.php:177
+msgid "Discount type"
+msgstr ""
+
+#: includes/views/admin/discounts.php:180 includes/views/admin/pricing.php:243
+#: includes/views/admin/pricing.php:381
+msgid "Percentage discount"
+msgstr ""
+
+#: includes/views/admin/discounts.php:181 includes/views/admin/pricing.php:244
+#: includes/views/admin/pricing.php:382
+msgid "Price discount"
+msgstr ""
+
+#: includes/views/admin/discounts.php:190
+msgid "e.g. 5.00"
+msgstr ""
+
+#: includes/views/admin/discounts.php:204
+msgid "Add Discount"
+msgstr ""
+
+#: includes/views/admin/help.php:18 wc-dynamic-pricing-and-discounts.php:841
+msgid "Pricing Rules"
+msgstr ""
+
+#: includes/views/admin/help.php:21 includes/views/admin/settings.php:22
+#: wc-dynamic-pricing-and-discounts.php:845
+msgid "Cart Discounts"
+msgstr ""
+
+#: includes/views/admin/help.php:24
+msgid "Get In Touch"
+msgstr ""
+
+#: includes/views/admin/localization.php:22
+msgid "Labels"
+msgstr ""
+
+#: includes/views/admin/localization.php:28
+#: wc-dynamic-pricing-and-discounts.php:933
+msgid "Quantity discounts"
+msgstr ""
+
+#: includes/views/admin/localization.php:36
+#: wc-dynamic-pricing-and-discounts.php:934
+msgid "Special offers"
+msgstr ""
+
+#: includes/views/admin/localization.php:44
+#: wc-dynamic-pricing-and-discounts.php:931
+msgid "Quantity"
+msgstr ""
+
+#: includes/views/admin/localization.php:52
+#: wc-dynamic-pricing-and-discounts.php:932
+msgid "Price"
+msgstr ""
+
+#: includes/views/admin/pricing.php:22
+msgid "Manage Pricing Rules"
+msgstr ""
+
+#: includes/views/admin/pricing.php:39 wc-dynamic-pricing-and-discounts.php:941
+msgid "Pricing Rule #"
+msgstr ""
+
+#: includes/views/admin/pricing.php:49
+msgid "e.g. wholesale pricing for VIP customers"
+msgstr ""
+
+#: includes/views/admin/pricing.php:55
+msgid "Method"
+msgstr ""
+
+#: includes/views/admin/pricing.php:58
+msgid "Quantity discount"
+msgstr ""
+
+#: includes/views/admin/pricing.php:59
+msgid "Special offer"
+msgstr ""
+
+#: includes/views/admin/pricing.php:60
+msgid "Exclude matched items"
+msgstr ""
+
+#: includes/views/admin/pricing.php:67
+msgid "Quantities based on"
+msgstr ""
+
+#: includes/views/admin/pricing.php:70
+msgid "Exclusive"
+msgstr ""
+
+#: includes/views/admin/pricing.php:71
+msgid "Quantities of each product individually"
+msgstr ""
+
+#: includes/views/admin/pricing.php:72
+msgid "Quantities of each variation individually"
+msgstr ""
+
+#: includes/views/admin/pricing.php:73
+msgid "Quantities of each cart line item individually"
+msgstr ""
+
+#: includes/views/admin/pricing.php:75
+msgid "Cumulative"
+msgstr ""
+
+#: includes/views/admin/pricing.php:76
+msgid "Quantities of all selected products split by category"
+msgstr ""
+
+#: includes/views/admin/pricing.php:77
+msgid "Quantities of all selected products summed up"
+msgstr ""
+
+#: includes/views/admin/pricing.php:85
+msgid "If conditions are matched"
+msgstr ""
+
+#: includes/views/admin/pricing.php:88
+msgid "Apply with other matched rules"
+msgstr ""
+
+#: includes/views/admin/pricing.php:89
+msgid "Apply only this rule (disregard other rules)"
+msgstr ""
+
+#: includes/views/admin/pricing.php:90
+msgid "Apply only if no other rules are matched"
+msgstr ""
+
+#: includes/views/admin/pricing.php:111
+msgid "Apply to"
+msgstr ""
+
+#: includes/views/admin/pricing.php:114 includes/views/admin/pricing.php:115
+msgid "All products"
+msgstr ""
+
+#: includes/views/admin/pricing.php:117 includes/views/admin/pricing.php:280
+#: includes/views/admin/pricing.php:337
+msgid "Specific categories"
+msgstr ""
+
+#: includes/views/admin/pricing.php:118
+msgid "Categories in list"
+msgstr ""
+
+#: includes/views/admin/pricing.php:119
+msgid "Categories not in list"
+msgstr ""
+
+#: includes/views/admin/pricing.php:121 includes/views/admin/pricing.php:281
+#: includes/views/admin/pricing.php:338
+msgid "Specific products"
+msgstr ""
+
+#: includes/views/admin/pricing.php:122
+msgid "Products in list"
+msgstr ""
+
+#: includes/views/admin/pricing.php:123
+msgid "Products not in list"
+msgstr ""
+
+#: includes/views/admin/pricing.php:131 includes/views/admin/pricing.php:289
+#: includes/views/admin/pricing.php:346
+msgid "Category list"
+msgstr ""
+
+#: includes/views/admin/pricing.php:143 includes/views/admin/pricing.php:301
+#: includes/views/admin/pricing.php:358
+msgid "Product list"
+msgstr ""
+
+#: includes/views/admin/pricing.php:155
+msgid "Customers"
+msgstr ""
+
+#: includes/views/admin/pricing.php:158 includes/views/admin/pricing.php:159
+msgid "All customers"
+msgstr ""
+
+#: includes/views/admin/pricing.php:161
+msgid "Specific roles"
+msgstr ""
+
+#: includes/views/admin/pricing.php:162
+msgid "Roles in list"
+msgstr ""
+
+#: includes/views/admin/pricing.php:163
+msgid "Roles not in list"
+msgstr ""
+
+#: includes/views/admin/pricing.php:165
+msgid "Specific capabilities"
+msgstr ""
+
+#: includes/views/admin/pricing.php:166
+msgid "Capabilities in list"
+msgstr ""
+
+#: includes/views/admin/pricing.php:167
+msgid "Capabilities not in list"
+msgstr ""
+
+#: includes/views/admin/pricing.php:169
+msgid "Specific customers"
+msgstr ""
+
+#: includes/views/admin/pricing.php:170
+msgid "Customers in list"
+msgstr ""
+
+#: includes/views/admin/pricing.php:171
+msgid "Customers not in list"
+msgstr ""
+
+#: includes/views/admin/pricing.php:179
+msgid "Role list"
+msgstr ""
+
+#: includes/views/admin/pricing.php:191
+msgid "Capability list"
+msgstr ""
+
+#: includes/views/admin/pricing.php:203
+msgid "Customer list"
+msgstr ""
+
+#: includes/views/admin/pricing.php:217
+msgid "Quantity Discount"
+msgstr ""
+
+#: includes/views/admin/pricing.php:223
+msgid "Min quantity"
+msgstr ""
+
+#: includes/views/admin/pricing.php:224
+msgid "Max quantity"
+msgstr ""
+
+#: includes/views/admin/pricing.php:225 includes/views/admin/pricing.php:378
+msgid "Adjustment type"
+msgstr ""
+
+#: includes/views/admin/pricing.php:236
+msgid "e.g. 5"
+msgstr ""
+
+#: includes/views/admin/pricing.php:239
+msgid "e.g. 9"
+msgstr ""
+
+#: includes/views/admin/pricing.php:245 includes/views/admin/pricing.php:383
+msgid "Fixed price"
+msgstr ""
+
+#: includes/views/admin/pricing.php:249 includes/views/admin/pricing.php:392
+msgid "e.g. 15.00"
+msgstr ""
+
+#: includes/views/admin/pricing.php:262
+msgid "Add Row"
+msgstr ""
+
+#: includes/views/admin/pricing.php:273 includes/views/admin/pricing.php:330
+msgid "Products to adjust"
+msgstr ""
+
+#: includes/views/admin/pricing.php:276 includes/views/admin/pricing.php:333
+msgid "Same products"
+msgstr ""
+
+#: includes/views/admin/pricing.php:277 includes/views/admin/pricing.php:334
+msgid "Same products (selected above)"
+msgstr ""
+
+#: includes/views/admin/pricing.php:279 includes/views/admin/pricing.php:336
+msgid "Other products"
+msgstr ""
+
+#: includes/views/admin/pricing.php:317
+msgid "Special Offer"
+msgstr ""
+
+#: includes/views/admin/pricing.php:322
+msgid "Amount to purchase"
+msgstr ""
+
+#: includes/views/admin/pricing.php:324
+msgid "e.g. 2"
+msgstr ""
+
+#: includes/views/admin/pricing.php:370
+msgid "Amount to adjust"
+msgstr ""
+
+#: includes/views/admin/pricing.php:372
+msgid "e.g. 1"
+msgstr ""
+
+#: includes/views/admin/pricing.php:390
+msgid "Adjustment value"
+msgstr ""
+
+#: includes/views/admin/pricing.php:398
+msgid "Repeat"
+msgstr ""
+
+#: includes/views/admin/pricing.php:416
+msgid "Add Rule"
+msgstr ""
+
+#: includes/views/admin/settings.php:28
+msgid "Cart discount title"
+msgstr ""
+
+#: includes/views/admin/settings.php:36
+msgid "Quantity Pricing Table"
+msgstr ""
+
+#: includes/views/admin/settings.php:36
+msgid "(experimental)"
+msgstr ""
+
+#: includes/views/admin/settings.php:42
+msgid "Display pricing table"
+msgstr ""
+
+#: includes/views/admin/settings.php:45 includes/views/admin/settings.php:57
+msgid "Do not display"
+msgstr ""
+
+#: includes/views/admin/settings.php:46
+msgid "Product Page - Display in a modal"
+msgstr ""
+
+#: includes/views/admin/settings.php:47
+msgid "Product Page - Display inline"
+msgstr ""
+
+#: includes/views/admin/settings.php:54
+msgid "Special offer details"
+msgstr ""
+
+#: includes/views/admin/settings.php:58
+msgid "Display in a modal"
+msgstr ""
+
+#: includes/views/admin/settings.php:59
+msgid "Display inline"
+msgstr ""
+
+#: includes/views/admin/settings.php:66
+msgid "Table layout"
+msgstr ""
+
+#: includes/views/admin/settings.php:69
+msgid "Horizontal"
+msgstr ""
+
+#: includes/views/admin/settings.php:70
+msgid "Vertical"
+msgstr ""
+
+#: includes/views/admin/settings.php:77
+msgid "Display position"
+msgstr ""
+
+#: includes/views/admin/settings.php:80
+msgid "Above add to cart"
+msgstr ""
+
+#: includes/views/admin/settings.php:81
+msgid "Below add to cart"
+msgstr ""
+
+#: includes/views/admin/settings.php:82
+msgid "Above product summary"
+msgstr ""
+
+#: includes/views/admin/settings.php:83
+msgid "Below product summary"
+msgstr ""
+
+#: includes/views/admin/settings.php:84
+msgid "Below product meta"
+msgstr ""
+
+#: includes/views/admin/settings.php:85
+msgid "Below page content"
+msgstr ""
+
+#: wc-dynamic-pricing-and-discounts.php:849
+#: wc-dynamic-pricing-and-discounts.php:1828
+msgid "Settings"
+msgstr ""
+
+#: wc-dynamic-pricing-and-discounts.php:853
+msgid "Localization"
+msgstr ""
+
+#: wc-dynamic-pricing-and-discounts.php:1098
+#: wc-dynamic-pricing-and-discounts.php:1131
+msgid "This will only be used for your own reference."
+msgstr ""
+
+#: wc-dynamic-pricing-and-discounts.php:1099
+msgid ""
+"All three pricing rule methods are completely different:<br /><br /"
+"><i>Quantity discount</i> is used to set up tiered discounts that depend on "
+"quantity of specific product purchased.<br /><br /><i>Special offer</i> is "
+"used to set up <i>buy two get one free</i> and similar scenarios.<br /><br /"
+"><i>Exclude matched items</i> is used to exclude specific products or "
+"categories from other, usually more general rules (e.g. exlude specific "
+"product from a category rule)."
+msgstr ""
+
+#: wc-dynamic-pricing-and-discounts.php:1100
+#, php-format
+msgid ""
+"Use cumulative methods when you wish to set up scenarios like <i>get "
+"10% discount on Product X when you buy any 10 items from Category Y</i>."
+msgstr ""
+
+#: wc-dynamic-pricing-and-discounts.php:1113
+msgid ""
+"Please note that if you select other cart items to adjust, quantities of "
+"matched items (not items to adjust) will be used to determine pricing tier. "
+"Biggest quantity of all quantities will be used."
+msgstr ""
+
+#: wc-dynamic-pricing-and-discounts.php:1119
+msgid ""
+"Please note that if you select other cart items to adjust, quantities of "
+"matched items (not items to adjust) will be taken into account. Biggest "
+"quantity of all quantities will be used."
+msgstr ""
+
+#: wc-dynamic-pricing-and-discounts.php:1125
+msgid ""
+"Whether to apply the same rule multiple times (if quantities allow) or not."
+"<br /><br />For example, if you set up <i>buy 2 get 1 free</i> rule and "
+"leave <i>Repeat</i> unchecked, then 10 products at full price will earn only "
+"1 free product.<br /><br />On the other hand, if you set <i>Repeat</i> to "
+"active, 10 products at full price will earn 5 free products."
+msgstr ""
+
+#: wc-dynamic-pricing-and-discounts.php:1133
+msgid ""
+"If checked, this cart discount will not be applied if cart contains at least "
+"one item which price was adjusted by pricing rules."
+msgstr ""
+
+#: wc-dynamic-pricing-and-discounts.php:1142
+msgid ""
+"On newer versions of WooCommerce, this will appear on the totals block as a "
+"discount title (similar to coupon code)."
+msgstr ""
+
+#: wc-dynamic-pricing-and-discounts.php:1144
+msgid ""
+"Whether or not to display a pricing table on products that have quantity "
+"discount rule configured for them.<br /><br />This setting also allows you "
+"to choose whether table should be displayed inline or opened in a modal.<br /"
+"><br />It is important to understand that if you have any other rules and/or "
+"conditions in addition to the very basic <i>Quantity discount</i> table, the "
+"final price may differ from what is displayed in the pricing table. It is "
+"your own responsibility to determine whether displaying a quantity pricing "
+"table on a product page for marketing purposes will work fine in your unique "
+"setup."
+msgstr ""
+
+#: wc-dynamic-pricing-and-discounts.php:1146
+msgid ""
+"Choose position on the product page where pricing table (or link to open a "
+"modal) should appear. Not all of positions will work with all themes."
+msgstr ""
+
+#: wc-dynamic-pricing-and-discounts.php:1266
+#: wc-dynamic-pricing-and-discounts.php:1267
+msgid "Pricing & Discounts"
+msgstr ""
+
+#: wc-dynamic-pricing-and-discounts.php:1361
+#: wc-dynamic-pricing-and-discounts.php:1365
+msgid "Something went wrong. Please try again."
+msgstr ""
+
+#: wc-dynamic-pricing-and-discounts.php:1405
+#: wc-dynamic-pricing-and-discounts.php:1626
+msgid "Invalid data structure."
+msgstr ""
+
+#: wc-dynamic-pricing-and-discounts.php:1612
+#: wc-dynamic-pricing-and-discounts.php:1754
+msgid ""
+"Pricing rule configuration did not pass validation. Reverted to previous "
+"state."
+msgstr ""
+
+#: wc-dynamic-pricing-and-discounts.php:1826
+msgid "Support"
+msgstr ""

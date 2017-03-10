@@ -1,0 +1,5 @@
+{
+    "title" : "Guzzy",
+    "description" : "Subscription form with the following fields: Name and Email. Email validation provided and name field required.",
+    "version" : "1.0"
+}

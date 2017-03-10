@@ -1,0 +1,22 @@
+#bb_YMM_Filter-all{
+	max-height:800px !important;
+}
+#bb_YMM_Filter-all{
+	font-weight:bold;
+}
+#bb_YMM_Filterchecklist .children li{
+	color:Red;
+}
+#bb_YMM_Filterchecklist .children .children li{
+	color:green;
+}
+
+.bb_YMM_Filter-checklist{
+	font-weight:bold;
+}
+.bb_YMM_Filter-checklist li .children li .selectit{
+	color:Red !important;
+}
+.bb_YMM_Filter-checklist li .children li .children li .selectit{
+	color:green !important;
+}

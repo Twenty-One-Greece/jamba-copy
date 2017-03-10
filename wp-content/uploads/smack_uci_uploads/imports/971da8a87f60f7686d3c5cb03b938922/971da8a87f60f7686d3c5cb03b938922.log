@@ -1,0 +1,288 @@
+ File has been used for this event: export_2017-03-09 (1).csv
+ Type of the imported file: csv
+ Revision of the which is used: 2
+ Mode of event: Insert
+ Total no of records: 281
+ Rows handled on each iterations (Based on your server configuration): 1
+ File used to import data into: users (Users)
+[2017-03-09 09:23:49] Message: Inserted User ID: 5 Email: nmihos@ypsillon.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:23:50] Message: Inserted User ID: 6 Email: info@jambacopy.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:23:51] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:23:54] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:23:55] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:23:56] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:23:57] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:23:59] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:24:00] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:24:02] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:24:03] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:24:05] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:24:06] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:24:08] Message: Inserted User ID: 7 Email: n.valeontis@printxpress.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:24:10] Message: Inserted User ID: 8 Email: apothiki2010@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:24:11] Message: Inserted User ID: 9 Email: sagelop@otenet.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:24:13] Message: Inserted User ID: 10 Email: info@telesystems.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:24:14] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:24:15] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:24:17] Message: Inserted User ID: 11 Email: webgeo10@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:24:18] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:24:19] Message: Inserted User ID: 12 Email: 22joomla@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:24:21] Message: Inserted User ID: 13 Email: tonersxpress@otenet.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:24:22] Message: Inserted User ID: 14 Email: info@fritzy.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:24:23] Message: Inserted User ID: 15 Email: maskey@otenet.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:24:25] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:24:26] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:24:27] Message: Inserted User ID: 16 Email: dourakos@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:24:28] Message: Inserted User ID: 17 Email: rodo@saloustros.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:24:29] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:24:30] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:24:32] Message: Inserted User ID: 18 Email: lyrintzis_typ@yahoo.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:24:34] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:24:35] Message: Inserted User ID: 19 Email: iordanis_k@yahoo.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:24:37] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:24:38] Message: Inserted User ID: 20 Email: graphicagl@yahoo.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:24:39] Message: Inserted User ID: 21 Email: kxmarios@yahoo.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:24:41] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:24:42] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:24:43] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:24:45] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:24:47] Message: Inserted User ID: 22 Email: antitipo@yahoo.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:24:48] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:24:49] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:24:51] Message: Inserted User ID: 23 Email: scouternikos@yahoo.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:24:52] Message: Inserted User ID: 24 Email: info@aqua-centre.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:24:55] Message: Inserted User ID: 25 Email: print@technorganosi.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:24:56] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:24:57] Message: Inserted User ID: 26 Email: typothemis@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:24:59] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:25:03] Message: Inserted User ID: 27 Email: izakova@tonercentrum.cz Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:25:05] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:25:06] Message: Inserted User ID: 28 Email: tassiabadola@yahoo.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:25:08] Message: Inserted User ID: 29 Email: copyland.kefalonia@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:25:10] Message: Inserted User ID: 30 Email: aatsiptsios@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:25:11] Message: Inserted User ID: 31 Email: info@alphadigital.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:25:12] Message: Inserted User ID: 32 Email: service@ergoline.biz Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:25:13] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:25:15] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:25:17] Message: Inserted User ID: 33 Email: kriti@fotocopy.com.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:25:18] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:25:19] Message: Inserted User ID: 34 Email: diapori@hotmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:25:21] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:25:22] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:25:23] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:25:24] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:25:26] Message: Inserted User ID: 35 Email: mtzony@yahoo.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:25:27] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:25:28] Message: Inserted User ID: 36 Email: thanos_panos7@hotmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:25:30] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:25:31] Message: Inserted User ID: 37 Email: el_ze@hotmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:25:33] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:25:34] Message: Inserted User ID: 38 Email: koni_na@hotmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:25:35] Message: Inserted User ID: 39 Email: giatsoglou@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:25:37] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:25:38] Message: Inserted User ID: 40 Email: ekdoseissimmetria@yahoo.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:25:40] Message: Inserted User ID: 41 Email: vasilis7060@yahoo.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:25:41] Message: Inserted User ID: 42 Email: konsof@windowslive.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:25:42] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:25:43] Message: Inserted User ID: 43 Email: info@its4u.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:25:45] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:25:46] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:25:47] Message: Inserted User ID: 44 Email: refillcenter-edessa@hotmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:25:48] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:25:49] Message: Inserted User ID: 45 Email: tsigas32@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:25:50] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:25:51] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:25:53] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:25:55] Message: Inserted User ID: 46 Email: sterhour@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:25:56] Message: Inserted User ID: 47 Email: tstikas3@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:25:57] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:25:59] Message: Inserted User ID: 48 Email: frthrodi@yahoo.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:26:01] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:26:03] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:26:05] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:26:07] Message: Inserted User ID: 49 Email: entyposeis@hol.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:26:08] Message: Inserted User ID: 50 Email: anou65@otenet.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:26:10] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:26:12] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:26:13] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:26:14] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:26:16] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:26:18] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:26:19] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:26:20] Message: Inserted User ID: 51 Email: axilleass@in.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:26:21] Message: Inserted User ID: 52 Email: chris@karagelis.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:26:22] Message: Inserted User ID: 53 Email: kotsadam@hotmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:26:24] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:26:25] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:26:27] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:26:29] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:26:31] Message: Inserted User ID: 54 Email: ioannis.mpartsokas@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:26:33] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:26:35] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:26:37] Message: Inserted User ID: 55 Email: mareaangel@hotmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:26:39] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:26:41] Message: Inserted User ID: 56 Email: zoulakis@yahoo.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:26:43] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:26:45] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:26:47] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:26:49] Message: Inserted User ID: 57 Email: veraan17@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:26:51] Message: Inserted User ID: 58 Email: polisgroup@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:26:53] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:26:55] Message: Inserted User ID: 59 Email: fatos77b@yahoo.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:26:57] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:26:59] Message: Inserted User ID: 60 Email: andeloe@otenet.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:27:02] Message: Inserted User ID: 61 Email: teo.kallis@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:27:06] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:27:08] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:27:10] Message: Inserted User ID: 62 Email: eviechrist@yahoo.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:27:12] Message: Inserted User ID: 63 Email: dialima_edu@yahoo.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:27:13] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:27:14] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:27:17] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:27:19] Message: Inserted User ID: 64 Email: info@goodprint.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:27:22] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:27:23] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:27:25] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:27:28] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:27:30] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:27:31] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:27:34] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:27:35] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:27:37] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:27:40] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:27:41] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:27:43] Message: Inserted User ID: 65 Email: rsvmargan@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:27:44] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:27:45] Message: Inserted User ID: 66 Email: nobitom@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:27:47] Message: Inserted User ID: 67 Email: info@aixmi.edu.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:27:48] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:27:50] Message: Inserted User ID: 68 Email: axon-pagrati@hol.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:27:53] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:27:54] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:27:58] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:27:59] Message: Inserted User ID: 69 Email: gprovias@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:28:01] Message: Inserted User ID: 70 Email: tzokasaleksandros@hotmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:28:04] Message: Inserted User ID: 71 Email: info@ananiadis.com.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:28:05] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:07] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:09] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:10] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:12] Message: Inserted User ID: 72 Email: att@paradisenet.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:28:14] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:15] Message: Inserted User ID: 73 Email: a_palasi@otenet.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:28:16] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:18] Message: Inserted User ID: 74 Email: lavranoschristodoulos@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:28:20] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:21] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:22] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:24] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:26] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:27] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:29] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:31] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:33] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:35] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:36] Message: Inserted User ID: 75 Email: marinosand@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:28:38] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:39] Message: Inserted User ID: 76 Email: cckastor@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:28:40] Message: Inserted User ID: 77 Email: siomosp@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:28:42] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:44] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:45] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:47] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:49] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:50] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:52] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:54] Message: Inserted User ID: 78 Email: info@dotdpa.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:28:55] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:28:56] Message: Inserted User ID: 79 Email: print_graphima@yahoo.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:28:59] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:00] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:02] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:04] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:05] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:06] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:08] Message: Inserted User ID: 80 Email: agkazianis@yahoo.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:29:09] Message: Inserted User ID: 81 Email: parhmin@yahoo.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:29:10] Message: Inserted User ID: 82 Email: dimitriosl1@hotmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:29:12] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:14] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:16] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:18] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:20] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:22] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:24] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:26] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:28] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:30] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:32] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:35] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:37] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:41] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:43] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:46] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:49] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:52] Message: Inserted User ID: 83 Email: info@infocopy.com.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:29:54] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:29:56] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:30:00] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:30:07] Message: Inserted User ID: 84 Email: bit@bitservices.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:30:09] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:30:11] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:30:13] Message: Inserted User ID: 85 Email: konstantinos.asproudas@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:30:15] Message: Inserted User ID: 86 Email: krivek@krivek.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:30:17] Message: Inserted User ID: 87 Email: alexistzortzakis@hotmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:30:19] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:30:21] Message: Inserted User ID: 88 Email: groovy_4896724@sandboxhot.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:30:23] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:30:25] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:30:28] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:30:30] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:30:32] Message: Inserted User ID: 89 Email: christaras23@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:30:36] Message: Inserted User ID: 90 Email: whitepixel135@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:30:39] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:30:41] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:30:43] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:30:46] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:30:48] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:30:50] Message: Inserted User ID: 91 Email: tox@otenet.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:30:52] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:30:54] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:30:56] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:30:58] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:31:01] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:31:04] Message: Inserted User ID: 92 Email: info@dapalex.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:31:06] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:31:08] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:31:10] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:31:12] Message: Inserted User ID: 93 Email: john.waitforit.ceid@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:31:15] Message: Inserted User ID: 94 Email: info@up-crete.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:31:17] Message: Inserted User ID: 95 Email: billisapostolos@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:31:19] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:31:21] Message: Inserted User ID: 96 Email: mail@dim-selin.att.sch.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:31:23] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:31:26] Message: Inserted User ID: 97 Email: vergioti@sch.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:31:29] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:31:31] Message: Inserted User ID: 98 Email: nelly-229@hotmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:31:34] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:31:36] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:31:38] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:31:41] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:31:44] Message: Inserted User ID: 99 Email: kristorepoulos@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:31:47] Message: Inserted User ID: 100 Email: p9tsot@prolifepowerup.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:31:49] Message: Inserted User ID: 101 Email: ntailian@otenet.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:31:51] Message: Inserted User ID: 102 Email: web@traitdunion.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:31:53] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:31:55] Message: Inserted User ID: 103 Email: shotblasting2017@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:31:57] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:31:59] Message: Inserted User ID: 104 Email: pehlas@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:32:02] Message: Inserted User ID: 105 Email: ksha@otenet.gr Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:32:04] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:32:07] Message: Skipped, Due to duplicate User found with same email!. 
+[2017-03-09 09:32:09] Message: Inserted User ID: 106 Email: fwcqedxd@goohle.co.ua Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:32:11] Message: Inserted User ID: 107 Email: zillocreditk@mail.ru Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:32:13] Message: Inserted User ID: 108 Email: olbalieyc@goohle.co.ua Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:32:15] Message: Inserted User ID: 109 Email: xcmg97772@rng.marvsz.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:32:17] Message: Inserted User ID: 110 Email: crsx32866@rng.marvsz.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:32:19] Message: Inserted User ID: 111 Email: bammb.ukisergio@gmail.com Role: subscriber  Click here to verify -  User Profile  
+[2017-03-09 09:32:21] Message: Inserted User ID: 112 Email: dyadikov.ivan@yandex.ru Role: subscriber  Click here to verify -  User Profile  

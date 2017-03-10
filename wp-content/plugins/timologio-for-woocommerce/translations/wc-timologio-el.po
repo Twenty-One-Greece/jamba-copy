@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Timologio for WooCommerce\n"
+"POT-Creation-Date: 2016-01-28 09:48+0200\n"
+"PO-Revision-Date: 2016-01-29 10:04+0200\n"
+"Last-Translator: Panagiotis Vagenas <pan.vagenas@gmail.com>\n"
+"Language-Team: pan.vagenas <pan.vagenas@gmail.com>\n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_x;$this->__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: src/WcTimologio/WcTimologio.php:21 src/WcTimologio/WcTimologio.php:53
+msgid "Company Name"
+msgstr "Όνομα Εταιρείας"
+
+#: src/WcTimologio/WcTimologio.php:22 src/WcTimologio/WcTimologio.php:61
+msgid "Company Activity"
+msgstr "Δραστηριότητα"
+
+#: src/WcTimologio/WcTimologio.php:23 src/WcTimologio/WcTimologio.php:69
+msgid "VAT Number"
+msgstr "Α.Φ.Μ."
+
+#: src/WcTimologio/WcTimologio.php:24 src/WcTimologio/WcTimologio.php:77
+msgid "Public Financial Office"
+msgstr "Δ.Ο.Υ."
+
+#: src/WcTimologio/WcTimologio.php:40
+msgid "Invoice"
+msgstr "Τιμολόγιο"
+
+#: src/WcTimologio/WcTimologio.php:41
+msgid "Invoicing"
+msgstr "Έκδοση Τιμολογίου"
+
+#: src/WcTimologio/WcTimologio.php:46
+msgid "No"
+msgstr "Όχι"
+
+#: src/WcTimologio/WcTimologio.php:47
+msgid "Yes"
+msgstr "Ναι"
+
+#: src/WcTimologio/WcTimologio.php:95
+msgid "Please fill all invoice fields"
+msgstr ""
+"Παρακαλούμε συμπληρώστε όλα τα πεδία που αφορούν στα στοιχεία της εταιρείας "
+"για έκδοση τιμολογίου"
+
+#: src/WcTimologio/WcTimologio.php:157
+msgid "Company Details"
+msgstr "Στοιχεία Εταιρείας"
+
+#~ msgid "Drastiriotita"
+#~ msgstr "Δραστηριότητα"
+
+#~ msgid "DOY"
+#~ msgstr "Δ.Ο.Υ."

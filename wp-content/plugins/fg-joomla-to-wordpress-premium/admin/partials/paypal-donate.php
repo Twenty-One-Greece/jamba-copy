@@ -1,0 +1,1 @@
+		<p><?php printf(__('If you found this plugin useful and it saved you many hours or days, please rate it on %s.', 'fg-joomla-to-wordpress'), '<a href="https://wordpress.org/support/plugin/fg-joomla-to-wordpress/reviews/#new-post" target="_blank">WordPress.org</a>'); ?></p>

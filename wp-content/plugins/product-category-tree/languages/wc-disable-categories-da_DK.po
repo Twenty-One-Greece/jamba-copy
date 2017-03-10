@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Product Category Tree\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Thu Jul 07 2016 16:33:00 GMT+0530 (India Standard Time)\n"
+"PO-Revision-Date: Tue Nov 22 2016 16:38:25 GMT+0530 (India Standard Time)\n"
+"Last-Translator: Sarah <sarah@togidata.dk>\n"
+"Language-Team: \n"
+"Language: Danish\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Loco-Target-Locale: da_DK"
+
+#: ../includes/admin-functions.php:13 ../includes/admin-functions.php:13
+msgid "Category Tree"
+msgstr ""
+
+#: ../includes/admin-functions.php:46 ../includes/admin-functions.php:53 ..
+#: includes/disable-functions.php:24 ../includes/disable-functions.php:32
+msgid ""
+"The functionality for deactivating categories is only available in the pro "
+"version."
+msgstr ""
+
+#: ../includes/class-ads.php:34
+msgid "Product Category Tree PREMIUM VERSION"
+msgstr ""
+
+#: ../includes/class-ads.php:35
+msgid ""
+"Feel free to check out our premium version of the plugin, where we have "
+"added these awesome extra features:"
+msgstr ""
+
+#: ../includes/class-ads.php:38
+msgid "Tree structure when adding/editing a product"
+msgstr ""
+
+#: ../includes/class-ads.php:39
+msgid ""
+"You will also have the tree structure for the product categories when you "
+"are creating/editing a product. This makes it easier to find the correct "
+"category for your product"
+msgstr ""
+
+#: ../includes/class-ads.php:42
+msgid "Disable an entire product category with a single click"
+msgstr ""
+
+#: ../includes/class-ads.php:43
+msgid ""
+"If you want to hide an entire product category from your shop, just "
+"deactivate this category with a single click. The category will no longer be "
+"displayed in your shop, and neither will the products in this category"
+msgstr ""
+
+#: ../includes/class-ads.php:47
+msgid "Upgrade now"
+msgstr ""
+
+#: ../includes/class-ads.php:48
+msgid "Read more and see screenshots"
+msgstr ""
+
+#. Name of the plugin
+#: ../includes/main-functions.php:42
+msgid "Product Category Tree"
+msgstr ""
+
+#: ../includes/main-functions.php:49
+msgid "Expand all"
+msgstr ""
+
+#: ../includes/main-functions.php:50
+msgid "Collapse all"
+msgstr ""
+
+#. Author of the plugin
+msgid "TOGI Data"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://togidata.dk"
+msgstr ""
+
+#: ../init.php:66
+msgid ""
+"You can't activate the free version of Product Category Tree while you are "
+"using the premium one."
+msgstr ""
+
+#: ../wc-disable-categories.php:63
+msgid "Update to pro"
+msgstr ""
+
+#: ../includes/admin-functions.php:46 ../includes/disable-functions.php:24
+msgid "Is deactive"
+msgstr "Er inaktiv"
+
+#: ../includes/admin-functions.php:53 ../includes/disable-functions.php:32
+msgid "Is active"
+msgstr "Er aktiv"
+
+#: ../includes/admin-functions.php:60
+msgid "Edit"
+msgstr "Rediger"
+
+#: ../includes/admin-functions.php:60
+msgid "Quick Edit"
+msgstr "Lynrediger"
+
+#: ../includes/admin-functions.php:60
+msgid "View"
+msgstr "Se"
+
+#: ../includes/admin-functions.php:62
+msgid "Delete"
+msgstr "Slet"
+
+#: ../includes/admin-functions.php:68 ../includes/main-functions.php:88 ..
+#: includes/main-functions.php:190
+msgid "Name"
+msgstr "Navn"
+
+#: ../includes/admin-functions.php:68 ../includes/main-functions.php:92 ..
+#: includes/main-functions.php:195
+msgid "Slug"
+msgstr "Kort titel"
+
+#: ../includes/admin-functions.php:68
+msgid "Update"
+msgstr "Opdater"
+
+#: ../includes/admin-functions.php:68
+msgid "Cancel"
+msgstr "Annuller"
+
+#: ../includes/disable-functions.php:45 ../includes/main-functions.php:91
+msgid "Status"
+msgstr "Status"
+
+#: ../includes/main-functions.php:89 ../includes/main-functions.php:215
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: ../includes/main-functions.php:90
+msgid "Image"
+msgstr "Billede"
+
+#: ../includes/main-functions.php:93
+msgid "Count"
+msgstr "Antal"
+
+#: ../includes/main-functions.php:184
+msgid "Product categories for your store can be managed here."
+msgstr "Produktkategorierne til din shop kan administreres her"
+
+#: ../includes/main-functions.php:186 ../includes/main-functions.php:220
+msgid "Add New Product Category"
+msgstr "Tilføj nu produktkategori"
+
+#: ../includes/main-functions.php:192
+msgid "The name is how it appears on your site."
+msgstr "Navnet vil blive vist i din shop"
+
+#: ../includes/main-functions.php:197
+msgid ""
+"The \"slug\" is the URL-friendly version of the name. It is usually all "
+"lowercase and contains only letters, numbers, and hyphens."
+msgstr ""
+"Den korte titel er den url-venlige version af navnet. Det er normalt med små "
+"bogstaver og indeholder kun bogstaver og tal"
+
+#: ../includes/main-functions.php:200
+msgid "Parent"
+msgstr "Forælder"
+
+#: ../includes/main-functions.php:202
+msgid "None"
+msgstr "Ingen"
+
+#: ../includes/main-functions.php:217
+msgid ""
+"The description is not prominent by default; however, some themes may show "
+"it."
+msgstr "Beskrivelsen er ikke obligatorisk - nogle temaer viser den, andre gør ikke"
+
+#. Description of the plugin
+msgid ""
+"See your product categories in a tree structure and change their order via "
+"drag 'n' drop."
+msgstr ""
+"\n"
+"Se dine produktkategorier i en træstruktur og ændr rækkefølgen via drag 'n' "
+"drop"
+
+#: ../init.php:54
+msgid ""
+"Product Category Tree is enabled but not effective. It requires WooCommerce "
+"in order to work."
+msgstr ""
+"Product Category Tree er aktiveret men virker ikke. Du skal installere "
+"Woocommerce for at det virker"

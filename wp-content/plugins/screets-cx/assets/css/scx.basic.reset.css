@@ -1,0 +1,234 @@
+/*!
+ * Screets Chat X - Reset stylesheet
+ * Author: @screetscom
+ *
+ * COPYRIGHT © 2016 Screets d.o.o. All rights reserved.
+ * This  is  commercial  software,  only  users  who have purchased a valid
+ * license  and  accept  to the terms of the  License Agreement can install
+ * and use this program.
+ */
+
+@charset "UTF-8";
+
+/**
+ * Reset
+ * ------------------------------
+ */
+ 	#scx-widget {
+		-webkit-font-smoothing: subpixel-antialiased;
+ 	}
+
+	#scx-widget, #scx-widget h1, #scx-widget h2, #scx-widget h3,
+	#scx-widget h4, #scx-widget h5, #scx-widget h6, #scx-widget p,
+	#scx-widget td, #scx-widget dl, #scx-widget tr, #scx-widget dt,
+	#scx-widget ol, #scx-widget form, #scx-widget select,
+	#scx-widget option, #scx-widget pre, #scx-widget div,
+	#scx-widget table, #scx-widget th, #scx-widget tbody,
+	#scx-widget tfoot, #scx-widget caption, #scx-widget thead,
+	#scx-widget ul, #scx-widget li, #scx-widget address,
+	#scx-widget blockquote, #scx-widget dd, #scx-widget fieldset,
+	#scx-widget li, #scx-widget iframe, #scx-widget strong,
+	#scx-widget legend, #scx-widget em, #scx-widget s,
+	#scx-widget cite, #scx-widget span, #scx-widget input,
+	#scx-widget sup, #scx-widget label, #scx-widget dfn,
+	#scx-widget object, #scx-widget big, #scx-widget q,
+	#scx-widget font, #scx-widget samp, #scx-widget acronym,
+	#scx-widget small, #scx-widget img, #scx-widget strike,
+	#scx-widget code, #scx-widget sub, #scx-widget ins,
+	#scx-widget textarea, #scx-widget var, #scx-widget a,
+	#scx-widget abbr, #scx-widget applet, #scx-widget del,
+	#scx-widget kbd, #scx-widget tt, #scx-widget b, #scx-widget i,
+	#scx-widget hr, #scx-widget article, #scx-widget aside,
+	#scx-widget dialog, #scx-widget figure, #scx-widget footer,
+	#scx-widget header, #scx-widget hgroup, #scx-widget menu,
+	#scx-widget nav, #scx-widget section, #scx-widget time,
+	#scx-widget mark, #scx-widget audio, #scx-widget video {
+		background-attachment: scroll;
+		background-color: transparent;
+		background-image: none;
+		background-position: 0 0;
+		background-repeat: repeat;
+		border-color: black;
+		border-style: none;
+		border-width: medium;
+		clear: none;
+		clip: auto;
+		color: inherit;
+		counter-increment: none;
+		counter-reset: none;
+		direction: inherit;
+		display: inline;
+		float: none;
+		font-family: inherit;
+		font-size: inherit;
+		font-style: inherit;
+		font-variant: normal;
+		font-weight: inherit;
+		height: auto;
+		letter-spacing: normal;
+		line-height: inherit;
+		list-style-type: inherit;
+		list-style-position: inside;
+		list-style-image: none;
+		margin: 0;
+		max-height: none;
+		max-width: none;
+		outline: invert none medium;
+		overflow: visible;
+		padding: 0;
+		position: static;
+		quotes: "" "";
+		table-layout: auto;
+		text-align: inherit;
+		text-decoration: inherit;
+		text-transform: none;
+		unicode-bidi: normal;
+		vertical-align: baseline;
+		visibility: visible;
+		white-space: normal;
+		width: auto;
+		word-spacing: normal;
+		border-radius: 0;
+		-moz-border-radius: 0;
+		-webkit-border-radius: 0;
+		opacity: 1;
+		z-index: auto;
+	}
+
+	#scx-widget, #scx-widget th, #scx-widget table,
+	#scx-widget h3, #scx-widget h5, #scx-widget p, #scx-widget h1,
+	#scx-widget td, #scx-widget dl, #scx-widget tr, #scx-widget dt,
+	#scx-widget h6, #scx-widget ol, #scx-widget form,
+	#scx-widget select, #scx-widget option, #scx-widget pre,
+	#scx-widget div, #scx-widget tbody, #scx-widget h2,
+	#scx-widget tfoot, #scx-widget caption, #scx-widget thead,
+	#scx-widget h4, #scx-widget ul, #scx-widget address,
+	#scx-widget blockquote, #scx-widget dd, #scx-widget fieldset,
+	#scx-widget textarea, #scx-widget hr, #scx-widget article,
+	#scx-widget aside, #scx-widget dialog, #scx-widget figure,
+	#scx-widget footer, #scx-widget header, #scx-widget hgroup,
+	#scx-widget menu, #scx-widget nav, #scx-widget section {
+		display: block;
+	}
+
+	#scx-widget nav ul, #scx-widget nav ol { list-style-type: none }
+
+	#scx-widget h1, #scx-widget h2,
+	#scx-widget h3, #scx-widget h4 {
+		font-weight: bold;
+	}
+
+	#scx-widget h1 {
+		font-size: 1.2em;
+    	margin-bottom: 10px;
+    	line-height: 1.2em;
+	}
+
+	#scx-widget h2, 
+	#scx-widget h3 {
+		font-size: 1.05em;
+    	margin-bottom: 5px;
+    	line-height: 1.3em; 
+    }
+
+	#scx-widget li {
+		display: list-item;
+		min-height: auto;
+		min-width: auto
+	}
+
+	#scx-widget a, #scx-widget a *, #scx-widget input[type=submit],
+	#scx-widget button, #scx-widget input[type=radio], #scx-widget input[type=checkbox],
+	#scx-widget select {
+		cursor: pointer;
+		/*-webkit-transition: color .3s, background-color .3s, border-color .3s;
+			 -o-transition: color .3s, background-color .3s, border-color .3s;
+				transition: color .3s, background-color .3s, border-color .3s;*/
+	}
+
+	#scx-widget input[type=hidden] { display: none; }
+
+	#scx-widget input, #scx-widget select {
+		vertical-align: middle
+	}
+
+	#scx-widget select, #scx-widget textarea, #scx-widget input {
+		border: 1px solid #ccc
+	}
+
+	#scx-widget table {
+		border-collapse: collapse;
+		border-spacing: 0
+	}
+
+	#scx-widget hr {
+		display: block;
+		height: 1px;
+		border: 0;
+		border-top: 1px solid #ccc;
+		margin: 1em 0
+	}
+
+	#scx-widget *[dir=rtl] {
+		direction: rtl
+	}
+
+	#scx-widget mark {
+		background-color: #ff9;
+		color: black;
+		font-style: italic;
+		font-weight: bold
+	}
+
+	#scx-widget input[type=submit], #scx-widget_base button {
+		width: auto;
+		font-size: 12px;
+		padding: 3px 10px;
+		margin: 5px 0 10px 0;
+		border-radius: 3px;
+		min-height: 0;
+		clear: both
+	}
+
+	#scx-widget button:disabled {
+		cursor: inherit
+	}
+
+	#scx-widget input[type="text"],
+	#scx-widget input[type="email"],
+	#scx-widget input[type="password"],
+	#scx-widget input[type="url"],
+	#scx-widget input[type="number"],
+	#scx-widget input[type="file"],
+	#scx-widget textarea {
+		border: none;
+		background-color: #fff;
+		border-color: transparent;
+		border-width: 0;
+		border-style: none;
+		border-collapse: collapse;
+  		border-spacing: 0;
+		outline: none;
+		resize: none;
+		text-shadow: none;
+		text-transform: none;
+		height: inherit;
+		-webkit-border-radius: 0;
+		   -moz-border-radius: 0;
+		        border-radius: 0;
+		-webkit-box-shadow: none;
+		   -moz-box-shadow: none;
+		        box-shadow: none;
+		-webkit-transition: border .2s, background-color .3s;
+		   -moz-transition: border .2s, background-color .3s;
+		     -o-transition: border .2s, background-color .3s;
+		        transition: border .2s, background-color .3s;
+		-webkit-font-smoothing: subpixel-antialiased;
+	}
+
+	#scx-widget input::-webkit-input-placeholder,
+	#scx-widget isindex::-webkit-input-placeholder,
+	#scx-widget textarea::-webkit-input-placeholder {
+		color: #ccc;
+	}
+

@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FG Joomla to WordPress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-11 07:33+0100\n"
+"PO-Revision-Date: 2014-11-11 18:32+0100\n"
+"Last-Translator: Tobias Conrad <tobiasconrad@leupus.de>\n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: fgj2wp-virtuemart.php:44
+msgid ""
+"The Virtuemart module needs the «FG Joomla to WordPress Premium» plugin to "
+"work. Please install and activate <strong>FG Joomla to WordPress Premium</"
+"strong>."
+msgstr ""
+"Die Virtuemart Erweiterung benötigt das «FG Joomla to WordPress Premium» "
+"Plugin um zu funktionieren. Bitte installieren und aktivieren Sie <strong>FG "
+"Joomla to WordPress Premium</strong>."
+
+#: fgj2wp-virtuemart.php:51
+#, php-format
+msgid ""
+"The Virtuemart module needs at least the <strong>version %s</strong> of the "
+"«FG Joomla to WordPress Premium» plugin to work. Please install and activate "
+"<strong>FG Joomla to WordPress Premium</strong> at least the <strong>version "
+"%s</strong>."
+msgstr ""
+"Die Virtuemart Erweiterung benötigt mindestens <strong>Version %s</strong> "
+"des «FG Joomla to WordPress Premium» Plugin um zu funktionieren. Bitte "
+"installieren und aktivieren Sie <strong>FG Joomla to WordPress Premium</"
+"strong> <strong>Version %s</strong> oder höher."
+
+#: fgj2wp-virtuemart.php:196
+#, php-format
+msgid "%d Virtuemart product"
+msgid_plural "%d Virtuemart products"
+msgstr[0] "%d Virtuemart Produkt"
+msgstr[1] "%d Virtuemart Produkte"
+
+#: fgj2wp-virtuemart.php:201
+#, php-format
+msgid "%d Virtuemart order"
+msgid_plural "%d Virtuemart orders"
+msgstr[0] "%d Virtuemart Bestellung"
+msgstr[1] "%d Virtuemart Bestellungen"
+
+#: fgj2wp-virtuemart.php:310
+msgid "WooCommerce data deleted"
+msgstr "WooCommerce Daten gelöscht"
+
+#: fgj2wp-virtuemart.php:315
+msgid "WooCommerce default data created"
+msgstr "WooCommerce Standarddaten erstellt"
+
+#: fgj2wp-virtuemart.php:1103 fgj2wp-virtuemart.php:1581
+#: fgj2wp-virtuemart.php:1646 fgj2wp-virtuemart.php:1676
+#: fgj2wp-virtuemart.php:1706 fgj2wp-virtuemart.php:1763
+#: fgj2wp-virtuemart.php:1804 fgj2wp-virtuemart.php:1847
+#: fgj2wp-virtuemart.php:1889 fgj2wp-virtuemart.php:1924
+#: fgj2wp-virtuemart.php:1968 fgj2wp-virtuemart.php:2008
+#: fgj2wp-virtuemart.php:2042 fgj2wp-virtuemart.php:2112
+#: fgj2wp-virtuemart.php:2148 fgj2wp-virtuemart.php:2181
+#: fgj2wp-virtuemart.php:2260 fgj2wp-virtuemart.php:2299
+#: fgj2wp-virtuemart.php:2331 fgj2wp-virtuemart.php:2376
+#: fgj2wp-virtuemart.php:2417
+msgid "Error:"
+msgstr "Error:"
+
+#: fgj2wp-virtuemart.php:2509
+#, php-format
+msgid "%d Virtuemart user info imported"
+msgid_plural "%d Virtuemart users infos imported"
+msgstr[0] "%d Virtuemart Benutzer Info importiert"
+msgstr[1] "%d Virtuemart Benutzer Infos importiert"
+
+#: fgj2wp-virtuemart.php:2517
+#, php-format
+msgid "%d Virtuemart product imported"
+msgid_plural "%d Virtuemart products imported"
+msgstr[0] "%d Virtuemart Produkt importiert"
+msgstr[1] "%d Virtuemart Produkte importiert"
+
+#: fgj2wp-virtuemart.php:2525
+#, php-format
+msgid "%d Virtuemart image imported"
+msgid_plural "%d Virtuemart images imported"
+msgstr[0] "%d Virtuemart Bild importiert"
+msgstr[1] "%d Virtuemart Bilder importiert"
+
+#: fgj2wp-virtuemart.php:2533
+#, php-format
+msgid "%d Virtuemart order imported"
+msgid_plural "%d Virtuemart orders imported"
+msgstr[0] "%d Virtuemart Bestellung importiert"
+msgstr[1] "%d Virtuemart Bestellungen importiert"
+
+#: fgj2wp-virtuemart.php:2541
+#, php-format
+msgid "%d Virtuemart review imported"
+msgid_plural "%d Virtuemart reviews imported"
+msgstr[0] "%d Virtuemart Bewertung importiert"
+msgstr[1] "%d Virtuemart Bewertungen importiert"
+
+#: fgj2wp-virtuemart.php:2549
+#, php-format
+msgid "%d Virtuemart coupon imported"
+msgid_plural "%d Virtuemart coupons imported"
+msgstr[0] "%d Virtuemart Coupon importiert"
+msgstr[1] "%d Virtuemart Coupons importiert"
+
+#: fgj2wp-virtuemart.php:2559
+msgid "+ Virtuemart module"
+msgstr "+ Virtuemart Modul"
+
+#: fgj2wp-virtuemart.php:2560
+msgid ""
+"The Virtuemart module will also import the Virtuemart content (products, "
+"orders, users infos)."
+msgstr ""
+"Das Virtuemart Modul importiert auch Virtuemart Inhalte wie Produkte, "
+"Bestellungen, Benutzer Informationen, ..."
+
+#: fgj2wp-virtuemart.php:2564
+#, php-format
+msgid "%d product"
+msgid_plural "%d products"
+msgstr[0] "%d Produkt"
+msgstr[1] "%d Produkte"
+
+#: fgj2wp-virtuemart.php:2568
+#, php-format
+msgid "%d order"
+msgid_plural "%d orders"
+msgstr[0] "%d Bestellung"
+msgstr[1] "%d Bestellungen"
+
+#: fgj2wp-virtuemart.php:2579
+msgid "Don't import the products"
+msgstr "Kein Import der Produkte"
+
+#: fgj2wp-virtuemart.php:2581
+msgid "Don't import the attributes"
+msgstr "Kein Import der Attribute"
+
+#: fgj2wp-virtuemart.php:2583
+msgid "Don't import the variations"
+msgstr "Kein Import der Variationen"
+
+#: fgj2wp-virtuemart.php:2585
+msgid "Don't import the orders"
+msgstr "Kein Import der Bestellungen"
+
+#: fgj2wp-virtuemart.php:2587
+msgid "Don't import the reviews"
+msgstr "Kein Import der Bewertungen"
+
+#: fgj2wp-virtuemart.php:2589
+msgid "Don't import the coupons"
+msgstr "Kein Import der Bewertungen"
+
+#: fgj2wp-virtuemart.php:2597
+msgid "Virtuemart:"
+msgstr "Virtuemart:"
+
+#: fgj2wp-virtuemart.php:2598
+msgid "Import prices:"
+msgstr "Importiere Preise:"
+
+#: fgj2wp-virtuemart.php:2599
+msgid "excluding tax"
+msgstr "ohne Steuer"
+
+#: fgj2wp-virtuemart.php:2600
+msgid "including tax"
+msgstr "mit Steuer"
+
+#: fgj2wp-virtuemart.php:2601
+msgid "Don't include the first image into the product gallery"
+msgstr "Kein einfügen des ersten Bildes in die Produktgallery"

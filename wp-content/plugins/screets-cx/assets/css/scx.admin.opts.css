@@ -1,0 +1,94 @@
+/*!
+ * Screets Chat X - Admin chat options styles
+ * Author: @screetscom
+ *
+ * COPYRIGHT © 2016 Screets d.o.o. All rights reserved.
+ * This  is  commercial  software,  only  users  who have purchased a valid
+ * license  and  accept  to the terms of the  License Agreement can install
+ * and use this program.
+ */
+	
+/* App ID */
+input#screets-cx_app-id { width: 140px; }
+input#screets-cx_app-secret { width: 360px; }
+
+/* Some common elements in options */
+small.description { color: #ccc; }
+
+.scx-red { color: #e54045; }
+.scx-green { color: green; }
+.scx-grey { color: #bbb; }
+
+.scx-highlight { 
+	display: inline-block;
+	padding: 0 3px;
+	border-radius: 2px;
+	font-style: normal; 
+	background-color: #fff198; 
+}
+
+[class^="scx-ico-"]:before, [class*=" scx-ico-"]:before {
+	vertical-align: middle;
+}
+
+/**
+ * General structure 
+ */	
+
+ 	/*First row */
+ 	.titan-framework-panel-wrap .form-table tr.row-1 td,
+ 	.titan-framework-panel-wrap .form-table tr.row-1 th { padding-top: 30px; }
+	
+	.titan-framework-panel-wrap .form-table { margin: 0; }
+	.tf-upload .tf-image-preview { overflow: hidden; }
+
+	/* Row spacing */
+	.titan-framework-panel-wrap tr:not(.tf-heading) th, 
+	.titan-framework-panel-wrap tr:not(.tf-heading) td {
+		padding: 15px 20px;
+	}
+	
+	td.tf-note {
+		padding: 0 0 10px 0;
+	}
+	.tf-note .update-nag {
+		margin: 0;
+	}
+
+	/* Logos */
+	.form-table .scx-logo {
+		max-width: 16px;
+		height: auto;
+	}
+
+	/* Error */
+		.nav-tab-wrapper a.scx-error {
+			color: #e54045;
+		}
+		.nav-tab-wrapper a.scx-error:before {
+			content: '(!) ';
+		}
+
+		tr.scx-error th,
+		tr.scx-error td {
+			background-color: rgba(229, 64, 69, 0.1);
+		}
+
+		tr.scx-error input,
+		tr.scx-error textarea,
+		tr.scx-error select {
+			border-color: #e54045;
+		}
+
+/* Specific pages & cats */
+	.titan-framework-panel-wrap .form-table .scx-specific-pages td {
+		padding: 0 20px;
+	}
+	.titan-framework-panel-wrap .form-table .scx-specific-cats td {
+		padding: 10px 20px 20px 20px;
+	}
+
+/* Site logo option */
+	tr.row-5 td.tf-upload { padding-bottom: 0; }
+	tr.row-6 td.tf-checkbox { padding-bottom: 30px; }
+

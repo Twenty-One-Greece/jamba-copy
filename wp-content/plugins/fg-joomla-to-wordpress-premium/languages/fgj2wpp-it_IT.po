@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FG Joomla to WordPress Premium\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-07-27 19:58+0200\n"
+"PO-Revision-Date: 2016-08-02 08:22+0200\n"
+"Last-Translator: F. GILLES\n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: admin/class-fg-joomla-to-wordpress-admin."
+"php\n"
+"X-Poedit-SearchPathExcluded-1: admin/class-fg-joomla-to-wordpress-modules-"
+"check.php\n"
+"X-Poedit-SearchPathExcluded-2: admin/class-fg-joomla-to-wordpress-weblinks."
+"php\n"
+"X-Poedit-SearchPathExcluded-3: admin/class-fg-joomla-to-wordpress-"
+"compatibility.php\n"
+"X-Poedit-SearchPathExcluded-4: fg-joomla-to-wordpress_1.php\n"
+"X-Poedit-SearchPathExcluded-5: admin/partials/actions.php\n"
+"X-Poedit-SearchPathExcluded-6: admin/partials/after-migration.php\n"
+"X-Poedit-SearchPathExcluded-7: admin/partials/behavior.php\n"
+"X-Poedit-SearchPathExcluded-8: admin/partials/database-info.php\n"
+"X-Poedit-SearchPathExcluded-9: admin/partials/empty-content.php\n"
+"X-Poedit-SearchPathExcluded-10: admin/partials/extra-features.php\n"
+"X-Poedit-SearchPathExcluded-11: admin/partials/paypal-donate.php\n"
+"X-Poedit-SearchPathExcluded-12: admin/partials/settings.php\n"
+"X-Poedit-SearchPathExcluded-13: admin/partials/ftp-settings.php\n"
+"X-Poedit-SearchPathExcluded-14: admin/class-fg-joomla-to-wordpress-ftp.php\n"
+
+#: admin/class-fg-joomla-to-wordpress-menus.php:54
+msgid "Importing menus..."
+msgstr "Importazione menu..."
+
+#: admin/class-fg-joomla-to-wordpress-menus.php:91
+#, php-format
+msgid "%d menu item imported"
+msgid_plural "%d menu items imported"
+msgstr[0] "%d elemento del menu importato"
+msgstr[1] "%d elementi del menu importati"
+
+#: admin/class-fg-joomla-to-wordpress-modules.php:51
+msgid "Importing modules..."
+msgstr "L'importazione di moduli..."
+
+#: admin/class-fg-joomla-to-wordpress-modules.php:65
+#, php-format
+msgid "%d module imported"
+msgid_plural "%d modules imported"
+msgstr[0] "%d Modulo importato"
+msgstr[1] "%d Moduli importati"
+
+#: admin/class-fg-joomla-to-wordpress-premium-admin.php:104
+msgid "Import Joomla Premium (FG)"
+msgstr "Importare Joomla Premium (FG)"
+
+#: admin/class-fg-joomla-to-wordpress-premium-admin.php:105
+msgid ""
+"This plugin will import sections, categories, posts, tags, medias (images, "
+"attachments), web links, navigation menus and users from a Joomla database "
+"into WordPress."
+msgstr ""
+"Questo plugin consente di importare sezioni, categorie, post, tag, media "
+"(immagini, allegati), collegamenti web, menu di navigazione e gli utenti da "
+"un database di Joomla in WordPress."
+
+#: admin/class-fg-joomla-to-wordpress-premium-admin.php:106
+msgid ""
+"For any issue, please read the <a href=\"http://www.fredericgilles.net/fg-"
+"joomla-to-wordpress/faq\" target=\"_blank\">FAQ</a> first."
+msgstr ""
+"Per qualsiasi problema, si prega di leggere prima le <a href=\"http://www."
+"fredericgilles.net/fg-joomla-to-wordpress/faq\" target=\"_blank\">FAQ</a> ."
+
+#: admin/class-fg-joomla-to-wordpress-premium-admin.php:124
+#: admin/class-fg-joomla-to-wordpress-users.php:451
+#, php-format
+msgid "%d user"
+msgid_plural "%d users"
+msgstr[0] "%d Utente"
+msgstr[1] "%d Utenti"
+
+#: admin/class-fg-joomla-to-wordpress-premium-admin.php:128
+#, php-format
+msgid "%d menu item"
+msgid_plural "%d menu items"
+msgstr[0] "%d elemento di menu"
+msgstr[1] "%d elemento di menu"
+
+#: admin/class-fg-joomla-to-wordpress-premium-admin.php:187
+msgid ""
+"You need to fully empty the database if you want to use the \"Keep Joomla ID"
+"\" feature."
+msgstr ""
+"Avete bisogno di svuotare completamente il database se si desidera "
+"utilizzare la funzionalità di \"Mantenere Joomla ID\"."
+
+#: admin/class-fg-joomla-to-wordpress-tags.php:87
+#, php-format
+msgid "%d tag imported"
+msgid_plural "%d tags imported"
+msgstr[0] "%d tag importato"
+msgstr[1] "%d tag importati"
+
+#: admin/class-fg-joomla-to-wordpress-users.php:128
+msgid "Users deleted"
+msgstr "Utenti eliminati"
+
+#: admin/class-fg-joomla-to-wordpress-users.php:296
+msgid "Importing users..."
+msgstr "Importo gli utenti"
+
+#: admin/class-fg-joomla-to-wordpress-users.php:327
+#, php-format
+msgid "%d user imported"
+msgid_plural "%d users imported"
+msgstr[0] "%d utenti importato"
+msgstr[1] "%d utenti importati"
+
+#: admin/partials/logger.php:3
+msgid "Log"
+msgstr "Log"
+
+#: admin/partials/logger.php:4
+msgid "Log auto-refresh"
+msgstr "Log auto-aggiornante"
+
+#: admin/partials/premium-features.php:2
+msgid "Menus:"
+msgstr "Menu:"
+
+#: admin/partials/premium-features.php:4
+msgid "Create submenus with subcategories for categories menus"
+msgstr "Creare sottomenu con sottocategorie per il menu delle categorie"
+
+#: admin/partials/premium-features.php:9
+msgid "SEO:"
+msgstr "SEO:"
+
+#: admin/partials/premium-features.php:11
+msgid ""
+"Import the meta description and the meta keywords to WordPress SEO by Yoast"
+msgstr ""
+"Importare il le meta descrizioni e le meta keywords in WordPress SEO da "
+"Yoast"
+
+#: admin/partials/premium-features.php:13
+msgid "Set the meta data from menus instead of articles"
+msgstr "Impostare i metadati dal menu invece che dagli articoli"
+
+#: admin/partials/premium-features.php:15
+msgid "Set the post slugs from menus instead of aliases"
+msgstr "Imposta lo slug del post dal menu invece che dall'alias"
+
+#: admin/partials/premium-features.php:17
+msgid "Keep the Joomla articles IDs"
+msgstr "Mantenere l'id degli articoli di joomla"
+
+#: admin/partials/premium-features.php:19
+msgid "Redirect the Joomla URLs"
+msgstr "Esegui il Redirect degli URL di Joomla"
+
+#: admin/partials/premium-features.php:24
+msgid "Partial import:"
+msgstr "Importazione parziale:"
+
+#: admin/partials/premium-features.php:26
+msgid "expand / collapse"
+msgstr "Espandi / riduci"
+
+#: admin/partials/premium-features.php:28
+msgid "Don't import the categories"
+msgstr "Non importare  le categorie"
+
+#: admin/partials/premium-features.php:30
+msgid "Don't import the articles"
+msgstr "Non importare gli articoli"
+
+#: admin/partials/premium-features.php:32
+msgid "Don't import the web links"
+msgstr "Non importare i link "
+
+#: admin/partials/premium-features.php:34
+msgid "Don't import the users"
+msgstr "Non importare gli utenti"
+
+#: admin/partials/premium-features.php:36
+msgid "Don't import the menus"
+msgstr "Non importare i menu"
+
+#: admin/partials/premium-features.php:38
+msgid "Don't import the modules"
+msgstr "Non importare i moduli"
+
+#: includes/class-fg-joomla-to-wordpress-premium.php:327
+msgid "Import"
+msgstr "Importa"

@@ -1,0 +1,251 @@
+li.deleteli {
+    border: 1px solid #ff0000;
+}
+.ace-cimage img {
+    max-height: 23px;
+    max-width: 23px;
+    display:block
+}
+.ace-cimage {
+    float: left;
+    width: 10%;
+    display:block;    
+}
+ul.ace-cat-top li.ace-cimage{ margin-left:0 !important}
+.ace_cat_start_top #col-left {
+    width: 28%;
+}
+.ace_cat_start_top #col-right {
+    width: 71%;
+}
+.ace-links-parent:hover {/*background:#f3f3f3;*/
+}
+.ace_expand_col ul li {
+    float: left;
+    margin-right: 10px;
+}
+.ace_expand_col {
+    float: left;
+    margin-bottom: 0px;
+    margin-top: 15px;
+}
+.ace_expand_col ul {
+    margin-top: 0;
+}
+ul.ace-cat {
+    padding-left:0;
+    width:100%;
+    margin:0px;
+}
+ul.ace-cat li {
+    border-top: 1px solid #ccc;
+    overflow: hidden;
+}
+ul.ace-cat li {
+    padding:3px 0;
+    position:relative;
+    clear:both;
+    margin:0px; /*border-bottom:#ccc solid 1px*/
+}
+ul.ace-cat li:hover { /*background:#f3f3f3*/
+}
+ul.ace-cat li a, .ace_expand_col li a {
+    outline:0 none !important
+}
+.ace_expand_col li a:focus {
+    box-shadow:none !important
+}
+ul.ace-cat li ul, ul.ace-cat li form {
+    display:none;
+    /*margin-left: 5px;*/
+}
+ul.ace-cat li .showform > form {
+    display:block;
+}
+ul.ace-cat li.active > ul {
+    display:block;
+}
+.accord ul, .accord ul li {
+    list-style-type: none;
+}
+.accord ul li {
+}
+.accord ul li .ace-li-inner {
+    padding:0 0 0 30px;
+}
+.accord ul li a {
+    color: #2c70aa;
+    text-decoration: none;
+    border-right:#2c70aa solid 1px;
+    padding-right: 5px;
+    line-height:10px;
+    display:inline-block;
+}
+.accord ul li a:last-child {
+    border-right:#fff solid 0px;
+}
+.accord ul li a:hover {
+    color: #523205;
+    text-decoration: underline;
+}
+.accord ul li i {
+    color: #000;
+    cursor: pointer;
+    font-style: normal;
+    left: 5px;
+    position: absolute;
+    top: 8px;
+    width: 26px;
+    font-size: 0;
+}
+.accord ul li.collapse> i {
+    background:url("../images/openfolder.png") no-repeat scroll right 4px, url(../images/minus.png) no-repeat 0px 6px;
+    font-size:0px;
+    padding: 15px;
+}
+.accord ul li.expand i {
+    background: url("../images/closefolder.png") no-repeat scroll right 4px, url(../images/plus.png) no-repeat 0px 6px;
+    font-size:0px;
+    padding: 15px;
+}
+.accord ul li span.ace-links {
+    position:relative;
+    display:inline;
+    margin-left:3px;
+    visibility:hidden;
+}
+.accord ul li .ace-links-parent:hover span.ace-links {
+    display: block;
+    left:115px;
+    padding: 0;
+    position: absolute;
+    top:5px;
+    visibility: visible;
+    width: 175px;
+}
+span.ace-links a {
+    padding:0 1px;
+    font-size:11px
+}
+ul.ace-cat li.even .ace-links {
+    background:#f5f5f5;
+    text-align:center
+}
+ul.ace-cat li.odd .ace-links {
+    background:#fff;
+    text-align:center
+}
+.odd .even .ace-links, .even .ace-links {
+}
+.even .old .ace-links, .old .ace-links {
+}
+.ace-links-parent {
+    height: 30px;
+    padding: 5px 10px;
+}
+html {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    -webkit-box-sizing: inherit;
+    -moz-box-sizing: inherit;
+    box-sizing: inherit;
+}
+.ace-cat-top {
+    border: 1px solid #eee;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    overflow: hidden;
+    padding: 7.5px 40px;
+    width: 100%;
+}
+.ace-cat-top li {
+    float: left;
+    font-size: 14px;
+    list-style: outside none none;
+}
+
+.ace-cat-top li:last-child{ margin-left:0px ;}
+
+
+
+.ace-cname {
+    width: 25%;
+    float: left; height:20px; overflow:hidden;
+}
+/*.level-1 .ace-cname {width: 34%;}
+.level-2 .ace-cname {width: 32.5%;}
+.level-3 .ace-cname {width: 31%;}
+.level-4 .ace-cname {width: 30%;}
+.level-5 .ace-cname {width: 28%;}
+
+.level-1 .ace-cimage { margin-left:2.3%;}
+.level-2 .ace-cimage { margin-left:3.1%; margin-right:1%;}
+.level-3 .ace-cimage { margin-left:4%;}
+.level-4 .ace-cimage { margin-left:4%;}
+.level-5 .ace-cimage { margin-left:5.2%;}*/
+
+
+.level-2 .ace-cslug {
+}
+.level-3 .ace-cslug {
+}
+.level-4 .ace-cslug {
+}
+.ace-cslug {
+    width: 25%;
+    float: left;
+    overflow:hidden;
+    height:20px;
+    text-align: right;
+}
+.ace-ccount {
+    width: 10%;
+    float: right;
+    text-align: right;
+}
+.ace-category-start .ace-ccount {
+    color:#2c70aa
+}
+.ace-cdescription {
+    display: block;
+    float: left;
+    min-height: 2px;
+    width: 20%; 
+    height:20px; 
+    overflow:hidden;
+}
+.nosubsub #col-right {
+}
+#Accord {
+    background: #fff;
+    clear: both;
+    overflow: hidden;
+    border-bottom: 1px solid #ddd;
+    box-shadow: 0 6px 3px 1px;
+}
+.success_msg {
+    color: green;
+}
+.error_msg {
+    color: #ff0000;
+}
+ul.ace-cat li.odd { /*border-bottom:#f5f5f5 solid 6px;*/
+}
+ul.ace-cat li.even {
+}
+ul.ace-cat .nocat-img {
+    background: url("../images/nocat.png") no-repeat scroll 17px 9px rgba(0, 0, 0, 0);
+}
+.ace-cat-top li:last-child {
+    text-align:right
+}
+
+.ace-cstatus {
+    text-align: center;
+    width: 10%;
+}
