@@ -26,10 +26,10 @@ define('DB_NAME', 'jambacgr_test');
 define('DB_USER', 'jambacgr_test');
 
 /** MySQL database password */
-define('DB_PASSWORD', '!Test2015@#$');
+define('DB_PASSWORD', 'A15081980p');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '127.0.0.1');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');
